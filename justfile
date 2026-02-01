@@ -10,4 +10,12 @@ tl:
 
 # test run 
 tr namePattern: 
-  uv run pytest -k "{{namePattern}}" --verbose
+  uv run pytest -k "{{namePattern}}" -s --verbose
+
+
+# activate environtment
+ae:
+  source .venv/bin/activate.fish
+
+de: 
+  deactivate
