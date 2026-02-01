@@ -1,0 +1,6068 @@
+https://exodus.stockbit.com/order-trade/trade-book/chart?symbol=DEWA&time_interval=1m
+
+{
+    "message": "Successfully loaded tradebook data chart",
+    "data": {
+        "buy": [
+            {
+                "frequency": {
+                    "raw": "930",
+                    "formatted": "930"
+                },
+                "lot": {
+                    "raw": "156892",
+                    "formatted": "156,892"
+                },
+                "time": "09:00"
+            },
+            {
+                "frequency": {
+                    "raw": "1295",
+                    "formatted": "1,295"
+                },
+                "lot": {
+                    "raw": "238635",
+                    "formatted": "238,635"
+                },
+                "time": "09:01"
+            },
+            {
+                "frequency": {
+                    "raw": "1609",
+                    "formatted": "1,609"
+                },
+                "lot": {
+                    "raw": "289016",
+                    "formatted": "289,016"
+                },
+                "time": "09:02"
+            },
+            {
+                "frequency": {
+                    "raw": "1996",
+                    "formatted": "1,996"
+                },
+                "lot": {
+                    "raw": "356592",
+                    "formatted": "356,592"
+                },
+                "time": "09:03"
+            },
+            {
+                "frequency": {
+                    "raw": "2434",
+                    "formatted": "2,434"
+                },
+                "lot": {
+                    "raw": "424266",
+                    "formatted": "424,266"
+                },
+                "time": "09:04"
+            },
+            {
+                "frequency": {
+                    "raw": "3008",
+                    "formatted": "3,008"
+                },
+                "lot": {
+                    "raw": "546593",
+                    "formatted": "546,593"
+                },
+                "time": "09:05"
+            },
+            {
+                "frequency": {
+                    "raw": "3227",
+                    "formatted": "3,227"
+                },
+                "lot": {
+                    "raw": "566191",
+                    "formatted": "566,191"
+                },
+                "time": "09:06"
+            },
+            {
+                "frequency": {
+                    "raw": "3798",
+                    "formatted": "3,798"
+                },
+                "lot": {
+                    "raw": "725558",
+                    "formatted": "725,558"
+                },
+                "time": "09:07"
+            },
+            {
+                "frequency": {
+                    "raw": "4141",
+                    "formatted": "4,141"
+                },
+                "lot": {
+                    "raw": "777683",
+                    "formatted": "777,683"
+                },
+                "time": "09:08"
+            },
+            {
+                "frequency": {
+                    "raw": "4334",
+                    "formatted": "4,334"
+                },
+                "lot": {
+                    "raw": "788723",
+                    "formatted": "788,723"
+                },
+                "time": "09:09"
+            },
+            {
+                "frequency": {
+                    "raw": "4624",
+                    "formatted": "4,624"
+                },
+                "lot": {
+                    "raw": "833088",
+                    "formatted": "833,088"
+                },
+                "time": "09:10"
+            },
+            {
+                "frequency": {
+                    "raw": "4775",
+                    "formatted": "4,775"
+                },
+                "lot": {
+                    "raw": "848129",
+                    "formatted": "848,129"
+                },
+                "time": "09:11"
+            },
+            {
+                "frequency": {
+                    "raw": "4951",
+                    "formatted": "4,951"
+                },
+                "lot": {
+                    "raw": "865455",
+                    "formatted": "865,455"
+                },
+                "time": "09:12"
+            },
+            {
+                "frequency": {
+                    "raw": "5415",
+                    "formatted": "5,415"
+                },
+                "lot": {
+                    "raw": "958626",
+                    "formatted": "958,626"
+                },
+                "time": "09:13"
+            },
+            {
+                "frequency": {
+                    "raw": "5684",
+                    "formatted": "5,684"
+                },
+                "lot": {
+                    "raw": "977686",
+                    "formatted": "977,686"
+                },
+                "time": "09:14"
+            },
+            {
+                "frequency": {
+                    "raw": "6482",
+                    "formatted": "6,482"
+                },
+                "lot": {
+                    "raw": "1136077",
+                    "formatted": "1.14M"
+                },
+                "time": "09:15"
+            },
+            {
+                "frequency": {
+                    "raw": "6715",
+                    "formatted": "6,715"
+                },
+                "lot": {
+                    "raw": "1178326",
+                    "formatted": "1.18M"
+                },
+                "time": "09:16"
+            },
+            {
+                "frequency": {
+                    "raw": "6844",
+                    "formatted": "6,844"
+                },
+                "lot": {
+                    "raw": "1197239",
+                    "formatted": "1.20M"
+                },
+                "time": "09:17"
+            },
+            {
+                "frequency": {
+                    "raw": "7087",
+                    "formatted": "7,087"
+                },
+                "lot": {
+                    "raw": "1278755",
+                    "formatted": "1.28M"
+                },
+                "time": "09:18"
+            },
+            {
+                "frequency": {
+                    "raw": "7364",
+                    "formatted": "7,364"
+                },
+                "lot": {
+                    "raw": "1309846",
+                    "formatted": "1.31M"
+                },
+                "time": "09:19"
+            },
+            {
+                "frequency": {
+                    "raw": "7581",
+                    "formatted": "7,581"
+                },
+                "lot": {
+                    "raw": "1364076",
+                    "formatted": "1.36M"
+                },
+                "time": "09:20"
+            },
+            {
+                "frequency": {
+                    "raw": "7699",
+                    "formatted": "7,699"
+                },
+                "lot": {
+                    "raw": "1389520",
+                    "formatted": "1.39M"
+                },
+                "time": "09:21"
+            },
+            {
+                "frequency": {
+                    "raw": "7804",
+                    "formatted": "7,804"
+                },
+                "lot": {
+                    "raw": "1414170",
+                    "formatted": "1.41M"
+                },
+                "time": "09:22"
+            },
+            {
+                "frequency": {
+                    "raw": "8032",
+                    "formatted": "8,032"
+                },
+                "lot": {
+                    "raw": "1442859",
+                    "formatted": "1.44M"
+                },
+                "time": "09:23"
+            },
+            {
+                "frequency": {
+                    "raw": "8277",
+                    "formatted": "8,277"
+                },
+                "lot": {
+                    "raw": "1472704",
+                    "formatted": "1.47M"
+                },
+                "time": "09:24"
+            },
+            {
+                "frequency": {
+                    "raw": "8460",
+                    "formatted": "8,460"
+                },
+                "lot": {
+                    "raw": "1493240",
+                    "formatted": "1.49M"
+                },
+                "time": "09:25"
+            },
+            {
+                "frequency": {
+                    "raw": "8592",
+                    "formatted": "8,592"
+                },
+                "lot": {
+                    "raw": "1506859",
+                    "formatted": "1.51M"
+                },
+                "time": "09:26"
+            },
+            {
+                "frequency": {
+                    "raw": "8670",
+                    "formatted": "8,670"
+                },
+                "lot": {
+                    "raw": "1517389",
+                    "formatted": "1.52M"
+                },
+                "time": "09:27"
+            },
+            {
+                "frequency": {
+                    "raw": "8722",
+                    "formatted": "8,722"
+                },
+                "lot": {
+                    "raw": "1527445",
+                    "formatted": "1.53M"
+                },
+                "time": "09:28"
+            },
+            {
+                "frequency": {
+                    "raw": "8811",
+                    "formatted": "8,811"
+                },
+                "lot": {
+                    "raw": "1530176",
+                    "formatted": "1.53M"
+                },
+                "time": "09:29"
+            },
+            {
+                "frequency": {
+                    "raw": "8873",
+                    "formatted": "8,873"
+                },
+                "lot": {
+                    "raw": "1548449",
+                    "formatted": "1.55M"
+                },
+                "time": "09:30"
+            },
+            {
+                "frequency": {
+                    "raw": "8929",
+                    "formatted": "8,929"
+                },
+                "lot": {
+                    "raw": "1554961",
+                    "formatted": "1.55M"
+                },
+                "time": "09:31"
+            },
+            {
+                "frequency": {
+                    "raw": "9112",
+                    "formatted": "9,112"
+                },
+                "lot": {
+                    "raw": "1588947",
+                    "formatted": "1.59M"
+                },
+                "time": "09:32"
+            },
+            {
+                "frequency": {
+                    "raw": "9329",
+                    "formatted": "9,329"
+                },
+                "lot": {
+                    "raw": "1655785",
+                    "formatted": "1.66M"
+                },
+                "time": "09:33"
+            },
+            {
+                "frequency": {
+                    "raw": "9670",
+                    "formatted": "9,670"
+                },
+                "lot": {
+                    "raw": "1796872",
+                    "formatted": "1.80M"
+                },
+                "time": "09:34"
+            },
+            {
+                "frequency": {
+                    "raw": "9931",
+                    "formatted": "9,931"
+                },
+                "lot": {
+                    "raw": "1875620",
+                    "formatted": "1.88M"
+                },
+                "time": "09:35"
+            },
+            {
+                "frequency": {
+                    "raw": "10101",
+                    "formatted": "10,101"
+                },
+                "lot": {
+                    "raw": "1920789",
+                    "formatted": "1.92M"
+                },
+                "time": "09:36"
+            },
+            {
+                "frequency": {
+                    "raw": "10194",
+                    "formatted": "10,194"
+                },
+                "lot": {
+                    "raw": "1933565",
+                    "formatted": "1.93M"
+                },
+                "time": "09:37"
+            },
+            {
+                "frequency": {
+                    "raw": "10224",
+                    "formatted": "10,224"
+                },
+                "lot": {
+                    "raw": "1935194",
+                    "formatted": "1.94M"
+                },
+                "time": "09:38"
+            },
+            {
+                "frequency": {
+                    "raw": "10379",
+                    "formatted": "10,379"
+                },
+                "lot": {
+                    "raw": "1991184",
+                    "formatted": "1.99M"
+                },
+                "time": "09:39"
+            },
+            {
+                "frequency": {
+                    "raw": "10449",
+                    "formatted": "10,449"
+                },
+                "lot": {
+                    "raw": "2008458",
+                    "formatted": "2.01M"
+                },
+                "time": "09:40"
+            },
+            {
+                "frequency": {
+                    "raw": "10529",
+                    "formatted": "10,529"
+                },
+                "lot": {
+                    "raw": "2026175",
+                    "formatted": "2.03M"
+                },
+                "time": "09:41"
+            },
+            {
+                "frequency": {
+                    "raw": "10769",
+                    "formatted": "10,769"
+                },
+                "lot": {
+                    "raw": "2079545",
+                    "formatted": "2.08M"
+                },
+                "time": "09:42"
+            },
+            {
+                "frequency": {
+                    "raw": "10852",
+                    "formatted": "10,852"
+                },
+                "lot": {
+                    "raw": "2086799",
+                    "formatted": "2.09M"
+                },
+                "time": "09:43"
+            },
+            {
+                "frequency": {
+                    "raw": "10961",
+                    "formatted": "10,961"
+                },
+                "lot": {
+                    "raw": "2103740",
+                    "formatted": "2.10M"
+                },
+                "time": "09:44"
+            },
+            {
+                "frequency": {
+                    "raw": "11006",
+                    "formatted": "11,006"
+                },
+                "lot": {
+                    "raw": "2105637",
+                    "formatted": "2.11M"
+                },
+                "time": "09:45"
+            },
+            {
+                "frequency": {
+                    "raw": "11093",
+                    "formatted": "11,093"
+                },
+                "lot": {
+                    "raw": "2110025",
+                    "formatted": "2.11M"
+                },
+                "time": "09:46"
+            },
+            {
+                "frequency": {
+                    "raw": "11175",
+                    "formatted": "11,175"
+                },
+                "lot": {
+                    "raw": "2118861",
+                    "formatted": "2.12M"
+                },
+                "time": "09:47"
+            },
+            {
+                "frequency": {
+                    "raw": "11349",
+                    "formatted": "11,349"
+                },
+                "lot": {
+                    "raw": "2159104",
+                    "formatted": "2.16M"
+                },
+                "time": "09:48"
+            },
+            {
+                "frequency": {
+                    "raw": "11710",
+                    "formatted": "11,710"
+                },
+                "lot": {
+                    "raw": "2232954",
+                    "formatted": "2.23M"
+                },
+                "time": "09:49"
+            },
+            {
+                "frequency": {
+                    "raw": "11936",
+                    "formatted": "11,936"
+                },
+                "lot": {
+                    "raw": "2316998",
+                    "formatted": "2.32M"
+                },
+                "time": "09:50"
+            },
+            {
+                "frequency": {
+                    "raw": "12031",
+                    "formatted": "12,031"
+                },
+                "lot": {
+                    "raw": "2323881",
+                    "formatted": "2.32M"
+                },
+                "time": "09:51"
+            },
+            {
+                "frequency": {
+                    "raw": "12090",
+                    "formatted": "12,090"
+                },
+                "lot": {
+                    "raw": "2346526",
+                    "formatted": "2.35M"
+                },
+                "time": "09:52"
+            },
+            {
+                "frequency": {
+                    "raw": "12115",
+                    "formatted": "12,115"
+                },
+                "lot": {
+                    "raw": "2349135",
+                    "formatted": "2.35M"
+                },
+                "time": "09:53"
+            },
+            {
+                "frequency": {
+                    "raw": "12131",
+                    "formatted": "12,131"
+                },
+                "lot": {
+                    "raw": "2349350",
+                    "formatted": "2.35M"
+                },
+                "time": "09:54"
+            },
+            {
+                "frequency": {
+                    "raw": "12246",
+                    "formatted": "12,246"
+                },
+                "lot": {
+                    "raw": "2360348",
+                    "formatted": "2.36M"
+                },
+                "time": "09:55"
+            },
+            {
+                "frequency": {
+                    "raw": "12293",
+                    "formatted": "12,293"
+                },
+                "lot": {
+                    "raw": "2362238",
+                    "formatted": "2.36M"
+                },
+                "time": "09:56"
+            },
+            {
+                "frequency": {
+                    "raw": "12504",
+                    "formatted": "12,504"
+                },
+                "lot": {
+                    "raw": "2411887",
+                    "formatted": "2.41M"
+                },
+                "time": "09:57"
+            },
+            {
+                "frequency": {
+                    "raw": "12578",
+                    "formatted": "12,578"
+                },
+                "lot": {
+                    "raw": "2416813",
+                    "formatted": "2.42M"
+                },
+                "time": "09:58"
+            },
+            {
+                "frequency": {
+                    "raw": "12721",
+                    "formatted": "12,721"
+                },
+                "lot": {
+                    "raw": "2439013",
+                    "formatted": "2.44M"
+                },
+                "time": "09:59"
+            },
+            {
+                "frequency": {
+                    "raw": "13006",
+                    "formatted": "13,006"
+                },
+                "lot": {
+                    "raw": "2476017",
+                    "formatted": "2.48M"
+                },
+                "time": "10:00"
+            },
+            {
+                "frequency": {
+                    "raw": "13186",
+                    "formatted": "13,186"
+                },
+                "lot": {
+                    "raw": "2501922",
+                    "formatted": "2.50M"
+                },
+                "time": "10:01"
+            },
+            {
+                "frequency": {
+                    "raw": "13336",
+                    "formatted": "13,336"
+                },
+                "lot": {
+                    "raw": "2520090",
+                    "formatted": "2.52M"
+                },
+                "time": "10:02"
+            },
+            {
+                "frequency": {
+                    "raw": "13380",
+                    "formatted": "13,380"
+                },
+                "lot": {
+                    "raw": "2524369",
+                    "formatted": "2.52M"
+                },
+                "time": "10:03"
+            },
+            {
+                "frequency": {
+                    "raw": "13459",
+                    "formatted": "13,459"
+                },
+                "lot": {
+                    "raw": "2534929",
+                    "formatted": "2.53M"
+                },
+                "time": "10:04"
+            },
+            {
+                "frequency": {
+                    "raw": "13545",
+                    "formatted": "13,545"
+                },
+                "lot": {
+                    "raw": "2538842",
+                    "formatted": "2.54M"
+                },
+                "time": "10:05"
+            },
+            {
+                "frequency": {
+                    "raw": "13617",
+                    "formatted": "13,617"
+                },
+                "lot": {
+                    "raw": "2542102",
+                    "formatted": "2.54M"
+                },
+                "time": "10:06"
+            },
+            {
+                "frequency": {
+                    "raw": "13746",
+                    "formatted": "13,746"
+                },
+                "lot": {
+                    "raw": "2596394",
+                    "formatted": "2.60M"
+                },
+                "time": "10:07"
+            },
+            {
+                "frequency": {
+                    "raw": "13787",
+                    "formatted": "13,787"
+                },
+                "lot": {
+                    "raw": "2599062",
+                    "formatted": "2.60M"
+                },
+                "time": "10:08"
+            },
+            {
+                "frequency": {
+                    "raw": "13826",
+                    "formatted": "13,826"
+                },
+                "lot": {
+                    "raw": "2600481",
+                    "formatted": "2.60M"
+                },
+                "time": "10:09"
+            },
+            {
+                "frequency": {
+                    "raw": "13876",
+                    "formatted": "13,876"
+                },
+                "lot": {
+                    "raw": "2603678",
+                    "formatted": "2.60M"
+                },
+                "time": "10:10"
+            },
+            {
+                "frequency": {
+                    "raw": "14441",
+                    "formatted": "14,441"
+                },
+                "lot": {
+                    "raw": "2739499",
+                    "formatted": "2.74M"
+                },
+                "time": "10:11"
+            },
+            {
+                "frequency": {
+                    "raw": "14540",
+                    "formatted": "14,540"
+                },
+                "lot": {
+                    "raw": "2746616",
+                    "formatted": "2.75M"
+                },
+                "time": "10:12"
+            },
+            {
+                "frequency": {
+                    "raw": "15024",
+                    "formatted": "15,024"
+                },
+                "lot": {
+                    "raw": "2839856",
+                    "formatted": "2.84M"
+                },
+                "time": "10:13"
+            },
+            {
+                "frequency": {
+                    "raw": "15256",
+                    "formatted": "15,256"
+                },
+                "lot": {
+                    "raw": "2881307",
+                    "formatted": "2.88M"
+                },
+                "time": "10:14"
+            },
+            {
+                "frequency": {
+                    "raw": "15430",
+                    "formatted": "15,430"
+                },
+                "lot": {
+                    "raw": "2909952",
+                    "formatted": "2.91M"
+                },
+                "time": "10:15"
+            },
+            {
+                "frequency": {
+                    "raw": "15615",
+                    "formatted": "15,615"
+                },
+                "lot": {
+                    "raw": "2951296",
+                    "formatted": "2.95M"
+                },
+                "time": "10:16"
+            },
+            {
+                "frequency": {
+                    "raw": "15795",
+                    "formatted": "15,795"
+                },
+                "lot": {
+                    "raw": "2964268",
+                    "formatted": "2.96M"
+                },
+                "time": "10:17"
+            },
+            {
+                "frequency": {
+                    "raw": "15849",
+                    "formatted": "15,849"
+                },
+                "lot": {
+                    "raw": "2968275",
+                    "formatted": "2.97M"
+                },
+                "time": "10:18"
+            },
+            {
+                "frequency": {
+                    "raw": "15898",
+                    "formatted": "15,898"
+                },
+                "lot": {
+                    "raw": "2970547",
+                    "formatted": "2.97M"
+                },
+                "time": "10:19"
+            },
+            {
+                "frequency": {
+                    "raw": "15942",
+                    "formatted": "15,942"
+                },
+                "lot": {
+                    "raw": "2972854",
+                    "formatted": "2.97M"
+                },
+                "time": "10:20"
+            },
+            {
+                "frequency": {
+                    "raw": "16952",
+                    "formatted": "16,952"
+                },
+                "lot": {
+                    "raw": "3230595",
+                    "formatted": "3.23M"
+                },
+                "time": "10:21"
+            },
+            {
+                "frequency": {
+                    "raw": "17679",
+                    "formatted": "17,679"
+                },
+                "lot": {
+                    "raw": "3371095",
+                    "formatted": "3.37M"
+                },
+                "time": "10:22"
+            },
+            {
+                "frequency": {
+                    "raw": "18014",
+                    "formatted": "18,014"
+                },
+                "lot": {
+                    "raw": "3445486",
+                    "formatted": "3.45M"
+                },
+                "time": "10:23"
+            },
+            {
+                "frequency": {
+                    "raw": "18211",
+                    "formatted": "18,211"
+                },
+                "lot": {
+                    "raw": "3476072",
+                    "formatted": "3.48M"
+                },
+                "time": "10:24"
+            },
+            {
+                "frequency": {
+                    "raw": "18308",
+                    "formatted": "18,308"
+                },
+                "lot": {
+                    "raw": "3533651",
+                    "formatted": "3.53M"
+                },
+                "time": "10:25"
+            },
+            {
+                "frequency": {
+                    "raw": "18466",
+                    "formatted": "18,466"
+                },
+                "lot": {
+                    "raw": "3546314",
+                    "formatted": "3.55M"
+                },
+                "time": "10:26"
+            },
+            {
+                "frequency": {
+                    "raw": "18694",
+                    "formatted": "18,694"
+                },
+                "lot": {
+                    "raw": "3592302",
+                    "formatted": "3.59M"
+                },
+                "time": "10:27"
+            },
+            {
+                "frequency": {
+                    "raw": "18743",
+                    "formatted": "18,743"
+                },
+                "lot": {
+                    "raw": "3600274",
+                    "formatted": "3.60M"
+                },
+                "time": "10:28"
+            },
+            {
+                "frequency": {
+                    "raw": "18793",
+                    "formatted": "18,793"
+                },
+                "lot": {
+                    "raw": "3604990",
+                    "formatted": "3.60M"
+                },
+                "time": "10:29"
+            },
+            {
+                "frequency": {
+                    "raw": "18846",
+                    "formatted": "18,846"
+                },
+                "lot": {
+                    "raw": "3607783",
+                    "formatted": "3.61M"
+                },
+                "time": "10:30"
+            },
+            {
+                "frequency": {
+                    "raw": "18914",
+                    "formatted": "18,914"
+                },
+                "lot": {
+                    "raw": "3632609",
+                    "formatted": "3.63M"
+                },
+                "time": "10:31"
+            },
+            {
+                "frequency": {
+                    "raw": "18960",
+                    "formatted": "18,960"
+                },
+                "lot": {
+                    "raw": "3648448",
+                    "formatted": "3.65M"
+                },
+                "time": "10:32"
+            },
+            {
+                "frequency": {
+                    "raw": "18992",
+                    "formatted": "18,992"
+                },
+                "lot": {
+                    "raw": "3658060",
+                    "formatted": "3.66M"
+                },
+                "time": "10:33"
+            },
+            {
+                "frequency": {
+                    "raw": "19036",
+                    "formatted": "19,036"
+                },
+                "lot": {
+                    "raw": "3663300",
+                    "formatted": "3.66M"
+                },
+                "time": "10:34"
+            },
+            {
+                "frequency": {
+                    "raw": "19071",
+                    "formatted": "19,071"
+                },
+                "lot": {
+                    "raw": "3666829",
+                    "formatted": "3.67M"
+                },
+                "time": "10:35"
+            },
+            {
+                "frequency": {
+                    "raw": "19093",
+                    "formatted": "19,093"
+                },
+                "lot": {
+                    "raw": "3669920",
+                    "formatted": "3.67M"
+                },
+                "time": "10:36"
+            },
+            {
+                "frequency": {
+                    "raw": "19124",
+                    "formatted": "19,124"
+                },
+                "lot": {
+                    "raw": "3670726",
+                    "formatted": "3.67M"
+                },
+                "time": "10:37"
+            },
+            {
+                "frequency": {
+                    "raw": "19142",
+                    "formatted": "19,142"
+                },
+                "lot": {
+                    "raw": "3672206",
+                    "formatted": "3.67M"
+                },
+                "time": "10:38"
+            },
+            {
+                "frequency": {
+                    "raw": "19290",
+                    "formatted": "19,290"
+                },
+                "lot": {
+                    "raw": "3701131",
+                    "formatted": "3.70M"
+                },
+                "time": "10:39"
+            },
+            {
+                "frequency": {
+                    "raw": "19311",
+                    "formatted": "19,311"
+                },
+                "lot": {
+                    "raw": "3705009",
+                    "formatted": "3.71M"
+                },
+                "time": "10:40"
+            },
+            {
+                "frequency": {
+                    "raw": "19421",
+                    "formatted": "19,421"
+                },
+                "lot": {
+                    "raw": "3724244",
+                    "formatted": "3.72M"
+                },
+                "time": "10:41"
+            },
+            {
+                "frequency": {
+                    "raw": "19450",
+                    "formatted": "19,450"
+                },
+                "lot": {
+                    "raw": "3726618",
+                    "formatted": "3.73M"
+                },
+                "time": "10:42"
+            },
+            {
+                "frequency": {
+                    "raw": "19494",
+                    "formatted": "19,494"
+                },
+                "lot": {
+                    "raw": "3729286",
+                    "formatted": "3.73M"
+                },
+                "time": "10:43"
+            },
+            {
+                "frequency": {
+                    "raw": "19554",
+                    "formatted": "19,554"
+                },
+                "lot": {
+                    "raw": "3742620",
+                    "formatted": "3.74M"
+                },
+                "time": "10:44"
+            },
+            {
+                "frequency": {
+                    "raw": "19598",
+                    "formatted": "19,598"
+                },
+                "lot": {
+                    "raw": "3744018",
+                    "formatted": "3.74M"
+                },
+                "time": "10:45"
+            },
+            {
+                "frequency": {
+                    "raw": "19643",
+                    "formatted": "19,643"
+                },
+                "lot": {
+                    "raw": "3747635",
+                    "formatted": "3.75M"
+                },
+                "time": "10:46"
+            },
+            {
+                "frequency": {
+                    "raw": "19697",
+                    "formatted": "19,697"
+                },
+                "lot": {
+                    "raw": "3753186",
+                    "formatted": "3.75M"
+                },
+                "time": "10:47"
+            },
+            {
+                "frequency": {
+                    "raw": "19764",
+                    "formatted": "19,764"
+                },
+                "lot": {
+                    "raw": "3755086",
+                    "formatted": "3.76M"
+                },
+                "time": "10:48"
+            },
+            {
+                "frequency": {
+                    "raw": "19783",
+                    "formatted": "19,783"
+                },
+                "lot": {
+                    "raw": "3755709",
+                    "formatted": "3.76M"
+                },
+                "time": "10:49"
+            },
+            {
+                "frequency": {
+                    "raw": "19828",
+                    "formatted": "19,828"
+                },
+                "lot": {
+                    "raw": "3759666",
+                    "formatted": "3.76M"
+                },
+                "time": "10:50"
+            },
+            {
+                "frequency": {
+                    "raw": "19988",
+                    "formatted": "19,988"
+                },
+                "lot": {
+                    "raw": "3774177",
+                    "formatted": "3.77M"
+                },
+                "time": "10:51"
+            },
+            {
+                "frequency": {
+                    "raw": "20026",
+                    "formatted": "20,026"
+                },
+                "lot": {
+                    "raw": "3776189",
+                    "formatted": "3.78M"
+                },
+                "time": "10:52"
+            },
+            {
+                "frequency": {
+                    "raw": "20061",
+                    "formatted": "20,061"
+                },
+                "lot": {
+                    "raw": "3777630",
+                    "formatted": "3.78M"
+                },
+                "time": "10:53"
+            },
+            {
+                "frequency": {
+                    "raw": "20089",
+                    "formatted": "20,089"
+                },
+                "lot": {
+                    "raw": "3780243",
+                    "formatted": "3.78M"
+                },
+                "time": "10:54"
+            },
+            {
+                "frequency": {
+                    "raw": "20119",
+                    "formatted": "20,119"
+                },
+                "lot": {
+                    "raw": "3781425",
+                    "formatted": "3.78M"
+                },
+                "time": "10:55"
+            },
+            {
+                "frequency": {
+                    "raw": "20157",
+                    "formatted": "20,157"
+                },
+                "lot": {
+                    "raw": "3783247",
+                    "formatted": "3.78M"
+                },
+                "time": "10:56"
+            },
+            {
+                "frequency": {
+                    "raw": "20204",
+                    "formatted": "20,204"
+                },
+                "lot": {
+                    "raw": "3786960",
+                    "formatted": "3.79M"
+                },
+                "time": "10:57"
+            },
+            {
+                "frequency": {
+                    "raw": "20306",
+                    "formatted": "20,306"
+                },
+                "lot": {
+                    "raw": "3812925",
+                    "formatted": "3.81M"
+                },
+                "time": "10:58"
+            },
+            {
+                "frequency": {
+                    "raw": "20347",
+                    "formatted": "20,347"
+                },
+                "lot": {
+                    "raw": "3816988",
+                    "formatted": "3.82M"
+                },
+                "time": "10:59"
+            },
+            {
+                "frequency": {
+                    "raw": "20411",
+                    "formatted": "20,411"
+                },
+                "lot": {
+                    "raw": "3830193",
+                    "formatted": "3.83M"
+                },
+                "time": "11:00"
+            },
+            {
+                "frequency": {
+                    "raw": "20477",
+                    "formatted": "20,477"
+                },
+                "lot": {
+                    "raw": "3850078",
+                    "formatted": "3.85M"
+                },
+                "time": "11:01"
+            },
+            {
+                "frequency": {
+                    "raw": "20532",
+                    "formatted": "20,532"
+                },
+                "lot": {
+                    "raw": "3862007",
+                    "formatted": "3.86M"
+                },
+                "time": "11:02"
+            },
+            {
+                "frequency": {
+                    "raw": "20558",
+                    "formatted": "20,558"
+                },
+                "lot": {
+                    "raw": "3866241",
+                    "formatted": "3.87M"
+                },
+                "time": "11:03"
+            },
+            {
+                "frequency": {
+                    "raw": "20610",
+                    "formatted": "20,610"
+                },
+                "lot": {
+                    "raw": "3870049",
+                    "formatted": "3.87M"
+                },
+                "time": "11:04"
+            },
+            {
+                "frequency": {
+                    "raw": "20671",
+                    "formatted": "20,671"
+                },
+                "lot": {
+                    "raw": "3876929",
+                    "formatted": "3.88M"
+                },
+                "time": "11:05"
+            },
+            {
+                "frequency": {
+                    "raw": "20742",
+                    "formatted": "20,742"
+                },
+                "lot": {
+                    "raw": "3883372",
+                    "formatted": "3.88M"
+                },
+                "time": "11:06"
+            },
+            {
+                "frequency": {
+                    "raw": "20782",
+                    "formatted": "20,782"
+                },
+                "lot": {
+                    "raw": "3885491",
+                    "formatted": "3.89M"
+                },
+                "time": "11:07"
+            },
+            {
+                "frequency": {
+                    "raw": "20834",
+                    "formatted": "20,834"
+                },
+                "lot": {
+                    "raw": "3898456",
+                    "formatted": "3.90M"
+                },
+                "time": "11:08"
+            },
+            {
+                "frequency": {
+                    "raw": "20889",
+                    "formatted": "20,889"
+                },
+                "lot": {
+                    "raw": "3903697",
+                    "formatted": "3.90M"
+                },
+                "time": "11:09"
+            },
+            {
+                "frequency": {
+                    "raw": "20927",
+                    "formatted": "20,927"
+                },
+                "lot": {
+                    "raw": "3935015",
+                    "formatted": "3.94M"
+                },
+                "time": "11:10"
+            },
+            {
+                "frequency": {
+                    "raw": "20967",
+                    "formatted": "20,967"
+                },
+                "lot": {
+                    "raw": "3939899",
+                    "formatted": "3.94M"
+                },
+                "time": "11:11"
+            },
+            {
+                "frequency": {
+                    "raw": "20985",
+                    "formatted": "20,985"
+                },
+                "lot": {
+                    "raw": "3940597",
+                    "formatted": "3.94M"
+                },
+                "time": "11:12"
+            },
+            {
+                "frequency": {
+                    "raw": "21038",
+                    "formatted": "21,038"
+                },
+                "lot": {
+                    "raw": "3985268",
+                    "formatted": "3.99M"
+                },
+                "time": "11:13"
+            },
+            {
+                "frequency": {
+                    "raw": "21058",
+                    "formatted": "21,058"
+                },
+                "lot": {
+                    "raw": "3986097",
+                    "formatted": "3.99M"
+                },
+                "time": "11:14"
+            },
+            {
+                "frequency": {
+                    "raw": "21080",
+                    "formatted": "21,080"
+                },
+                "lot": {
+                    "raw": "3987408",
+                    "formatted": "3.99M"
+                },
+                "time": "11:15"
+            },
+            {
+                "frequency": {
+                    "raw": "21113",
+                    "formatted": "21,113"
+                },
+                "lot": {
+                    "raw": "3989618",
+                    "formatted": "3.99M"
+                },
+                "time": "11:16"
+            },
+            {
+                "frequency": {
+                    "raw": "21153",
+                    "formatted": "21,153"
+                },
+                "lot": {
+                    "raw": "3993275",
+                    "formatted": "3.99M"
+                },
+                "time": "11:17"
+            },
+            {
+                "frequency": {
+                    "raw": "21220",
+                    "formatted": "21,220"
+                },
+                "lot": {
+                    "raw": "4020137",
+                    "formatted": "4.02M"
+                },
+                "time": "11:18"
+            },
+            {
+                "frequency": {
+                    "raw": "21257",
+                    "formatted": "21,257"
+                },
+                "lot": {
+                    "raw": "4022876",
+                    "formatted": "4.02M"
+                },
+                "time": "11:19"
+            },
+            {
+                "frequency": {
+                    "raw": "21286",
+                    "formatted": "21,286"
+                },
+                "lot": {
+                    "raw": "4024807",
+                    "formatted": "4.02M"
+                },
+                "time": "11:20"
+            },
+            {
+                "frequency": {
+                    "raw": "21319",
+                    "formatted": "21,319"
+                },
+                "lot": {
+                    "raw": "4027670",
+                    "formatted": "4.03M"
+                },
+                "time": "11:21"
+            },
+            {
+                "frequency": {
+                    "raw": "21337",
+                    "formatted": "21,337"
+                },
+                "lot": {
+                    "raw": "4028683",
+                    "formatted": "4.03M"
+                },
+                "time": "11:22"
+            },
+            {
+                "frequency": {
+                    "raw": "21355",
+                    "formatted": "21,355"
+                },
+                "lot": {
+                    "raw": "4029512",
+                    "formatted": "4.03M"
+                },
+                "time": "11:23"
+            },
+            {
+                "frequency": {
+                    "raw": "21377",
+                    "formatted": "21,377"
+                },
+                "lot": {
+                    "raw": "4031133",
+                    "formatted": "4.03M"
+                },
+                "time": "11:24"
+            },
+            {
+                "frequency": {
+                    "raw": "21396",
+                    "formatted": "21,396"
+                },
+                "lot": {
+                    "raw": "4032366",
+                    "formatted": "4.03M"
+                },
+                "time": "11:25"
+            },
+            {
+                "frequency": {
+                    "raw": "21410",
+                    "formatted": "21,410"
+                },
+                "lot": {
+                    "raw": "4033426",
+                    "formatted": "4.03M"
+                },
+                "time": "11:26"
+            },
+            {
+                "frequency": {
+                    "raw": "21435",
+                    "formatted": "21,435"
+                },
+                "lot": {
+                    "raw": "4035177",
+                    "formatted": "4.04M"
+                },
+                "time": "11:27"
+            },
+            {
+                "frequency": {
+                    "raw": "21459",
+                    "formatted": "21,459"
+                },
+                "lot": {
+                    "raw": "4038004",
+                    "formatted": "4.04M"
+                },
+                "time": "11:28"
+            },
+            {
+                "frequency": {
+                    "raw": "21517",
+                    "formatted": "21,517"
+                },
+                "lot": {
+                    "raw": "4041663",
+                    "formatted": "4.04M"
+                },
+                "time": "11:29"
+            },
+            {
+                "frequency": {
+                    "raw": "21840",
+                    "formatted": "21,840"
+                },
+                "lot": {
+                    "raw": "4147307",
+                    "formatted": "4.15M"
+                },
+                "time": "14:00"
+            },
+            {
+                "frequency": {
+                    "raw": "21891",
+                    "formatted": "21,891"
+                },
+                "lot": {
+                    "raw": "4154842",
+                    "formatted": "4.15M"
+                },
+                "time": "14:01"
+            },
+            {
+                "frequency": {
+                    "raw": "21943",
+                    "formatted": "21,943"
+                },
+                "lot": {
+                    "raw": "4191076",
+                    "formatted": "4.19M"
+                },
+                "time": "14:02"
+            },
+            {
+                "frequency": {
+                    "raw": "21991",
+                    "formatted": "21,991"
+                },
+                "lot": {
+                    "raw": "4195626",
+                    "formatted": "4.20M"
+                },
+                "time": "14:03"
+            },
+            {
+                "frequency": {
+                    "raw": "22021",
+                    "formatted": "22,021"
+                },
+                "lot": {
+                    "raw": "4197942",
+                    "formatted": "4.20M"
+                },
+                "time": "14:04"
+            },
+            {
+                "frequency": {
+                    "raw": "22127",
+                    "formatted": "22,127"
+                },
+                "lot": {
+                    "raw": "4221884",
+                    "formatted": "4.22M"
+                },
+                "time": "14:05"
+            },
+            {
+                "frequency": {
+                    "raw": "22168",
+                    "formatted": "22,168"
+                },
+                "lot": {
+                    "raw": "4226932",
+                    "formatted": "4.23M"
+                },
+                "time": "14:06"
+            },
+            {
+                "frequency": {
+                    "raw": "22214",
+                    "formatted": "22,214"
+                },
+                "lot": {
+                    "raw": "4236353",
+                    "formatted": "4.24M"
+                },
+                "time": "14:07"
+            },
+            {
+                "frequency": {
+                    "raw": "22262",
+                    "formatted": "22,262"
+                },
+                "lot": {
+                    "raw": "4239374",
+                    "formatted": "4.24M"
+                },
+                "time": "14:08"
+            },
+            {
+                "frequency": {
+                    "raw": "22284",
+                    "formatted": "22,284"
+                },
+                "lot": {
+                    "raw": "4241221",
+                    "formatted": "4.24M"
+                },
+                "time": "14:09"
+            },
+            {
+                "frequency": {
+                    "raw": "22335",
+                    "formatted": "22,335"
+                },
+                "lot": {
+                    "raw": "4254249",
+                    "formatted": "4.25M"
+                },
+                "time": "14:10"
+            },
+            {
+                "frequency": {
+                    "raw": "22377",
+                    "formatted": "22,377"
+                },
+                "lot": {
+                    "raw": "4257672",
+                    "formatted": "4.26M"
+                },
+                "time": "14:11"
+            },
+            {
+                "frequency": {
+                    "raw": "22407",
+                    "formatted": "22,407"
+                },
+                "lot": {
+                    "raw": "4262314",
+                    "formatted": "4.26M"
+                },
+                "time": "14:12"
+            },
+            {
+                "frequency": {
+                    "raw": "22433",
+                    "formatted": "22,433"
+                },
+                "lot": {
+                    "raw": "4264477",
+                    "formatted": "4.26M"
+                },
+                "time": "14:13"
+            },
+            {
+                "frequency": {
+                    "raw": "22483",
+                    "formatted": "22,483"
+                },
+                "lot": {
+                    "raw": "4269780",
+                    "formatted": "4.27M"
+                },
+                "time": "14:14"
+            },
+            {
+                "frequency": {
+                    "raw": "22528",
+                    "formatted": "22,528"
+                },
+                "lot": {
+                    "raw": "4276367",
+                    "formatted": "4.28M"
+                },
+                "time": "14:15"
+            },
+            {
+                "frequency": {
+                    "raw": "22576",
+                    "formatted": "22,576"
+                },
+                "lot": {
+                    "raw": "4278359",
+                    "formatted": "4.28M"
+                },
+                "time": "14:16"
+            },
+            {
+                "frequency": {
+                    "raw": "22661",
+                    "formatted": "22,661"
+                },
+                "lot": {
+                    "raw": "4288845",
+                    "formatted": "4.29M"
+                },
+                "time": "14:17"
+            },
+            {
+                "frequency": {
+                    "raw": "22735",
+                    "formatted": "22,735"
+                },
+                "lot": {
+                    "raw": "4309846",
+                    "formatted": "4.31M"
+                },
+                "time": "14:18"
+            },
+            {
+                "frequency": {
+                    "raw": "22845",
+                    "formatted": "22,845"
+                },
+                "lot": {
+                    "raw": "4332324",
+                    "formatted": "4.33M"
+                },
+                "time": "14:19"
+            },
+            {
+                "frequency": {
+                    "raw": "22969",
+                    "formatted": "22,969"
+                },
+                "lot": {
+                    "raw": "4352138",
+                    "formatted": "4.35M"
+                },
+                "time": "14:20"
+            },
+            {
+                "frequency": {
+                    "raw": "23005",
+                    "formatted": "23,005"
+                },
+                "lot": {
+                    "raw": "4353820",
+                    "formatted": "4.35M"
+                },
+                "time": "14:21"
+            },
+            {
+                "frequency": {
+                    "raw": "23067",
+                    "formatted": "23,067"
+                },
+                "lot": {
+                    "raw": "4361931",
+                    "formatted": "4.36M"
+                },
+                "time": "14:22"
+            },
+            {
+                "frequency": {
+                    "raw": "23104",
+                    "formatted": "23,104"
+                },
+                "lot": {
+                    "raw": "4364689",
+                    "formatted": "4.36M"
+                },
+                "time": "14:23"
+            },
+            {
+                "frequency": {
+                    "raw": "23140",
+                    "formatted": "23,140"
+                },
+                "lot": {
+                    "raw": "4366609",
+                    "formatted": "4.37M"
+                },
+                "time": "14:24"
+            },
+            {
+                "frequency": {
+                    "raw": "23188",
+                    "formatted": "23,188"
+                },
+                "lot": {
+                    "raw": "4371542",
+                    "formatted": "4.37M"
+                },
+                "time": "14:25"
+            },
+            {
+                "frequency": {
+                    "raw": "23215",
+                    "formatted": "23,215"
+                },
+                "lot": {
+                    "raw": "4373235",
+                    "formatted": "4.37M"
+                },
+                "time": "14:26"
+            },
+            {
+                "frequency": {
+                    "raw": "23270",
+                    "formatted": "23,270"
+                },
+                "lot": {
+                    "raw": "4380868",
+                    "formatted": "4.38M"
+                },
+                "time": "14:27"
+            },
+            {
+                "frequency": {
+                    "raw": "23305",
+                    "formatted": "23,305"
+                },
+                "lot": {
+                    "raw": "4385520",
+                    "formatted": "4.39M"
+                },
+                "time": "14:28"
+            },
+            {
+                "frequency": {
+                    "raw": "23339",
+                    "formatted": "23,339"
+                },
+                "lot": {
+                    "raw": "4388909",
+                    "formatted": "4.39M"
+                },
+                "time": "14:29"
+            },
+            {
+                "frequency": {
+                    "raw": "23384",
+                    "formatted": "23,384"
+                },
+                "lot": {
+                    "raw": "4394675",
+                    "formatted": "4.39M"
+                },
+                "time": "14:30"
+            },
+            {
+                "frequency": {
+                    "raw": "23423",
+                    "formatted": "23,423"
+                },
+                "lot": {
+                    "raw": "4396826",
+                    "formatted": "4.40M"
+                },
+                "time": "14:31"
+            },
+            {
+                "frequency": {
+                    "raw": "23472",
+                    "formatted": "23,472"
+                },
+                "lot": {
+                    "raw": "4403820",
+                    "formatted": "4.40M"
+                },
+                "time": "14:32"
+            },
+            {
+                "frequency": {
+                    "raw": "23498",
+                    "formatted": "23,498"
+                },
+                "lot": {
+                    "raw": "4406033",
+                    "formatted": "4.41M"
+                },
+                "time": "14:33"
+            },
+            {
+                "frequency": {
+                    "raw": "23514",
+                    "formatted": "23,514"
+                },
+                "lot": {
+                    "raw": "4406966",
+                    "formatted": "4.41M"
+                },
+                "time": "14:34"
+            },
+            {
+                "frequency": {
+                    "raw": "23554",
+                    "formatted": "23,554"
+                },
+                "lot": {
+                    "raw": "4412685",
+                    "formatted": "4.41M"
+                },
+                "time": "14:35"
+            },
+            {
+                "frequency": {
+                    "raw": "23574",
+                    "formatted": "23,574"
+                },
+                "lot": {
+                    "raw": "4415575",
+                    "formatted": "4.42M"
+                },
+                "time": "14:36"
+            },
+            {
+                "frequency": {
+                    "raw": "23608",
+                    "formatted": "23,608"
+                },
+                "lot": {
+                    "raw": "4421386",
+                    "formatted": "4.42M"
+                },
+                "time": "14:37"
+            },
+            {
+                "frequency": {
+                    "raw": "23626",
+                    "formatted": "23,626"
+                },
+                "lot": {
+                    "raw": "4422734",
+                    "formatted": "4.42M"
+                },
+                "time": "14:38"
+            },
+            {
+                "frequency": {
+                    "raw": "23667",
+                    "formatted": "23,667"
+                },
+                "lot": {
+                    "raw": "4424510",
+                    "formatted": "4.42M"
+                },
+                "time": "14:39"
+            },
+            {
+                "frequency": {
+                    "raw": "23712",
+                    "formatted": "23,712"
+                },
+                "lot": {
+                    "raw": "4428942",
+                    "formatted": "4.43M"
+                },
+                "time": "14:40"
+            },
+            {
+                "frequency": {
+                    "raw": "23731",
+                    "formatted": "23,731"
+                },
+                "lot": {
+                    "raw": "4429507",
+                    "formatted": "4.43M"
+                },
+                "time": "14:41"
+            },
+            {
+                "frequency": {
+                    "raw": "23805",
+                    "formatted": "23,805"
+                },
+                "lot": {
+                    "raw": "4437017",
+                    "formatted": "4.44M"
+                },
+                "time": "14:42"
+            },
+            {
+                "frequency": {
+                    "raw": "23838",
+                    "formatted": "23,838"
+                },
+                "lot": {
+                    "raw": "4438278",
+                    "formatted": "4.44M"
+                },
+                "time": "14:43"
+            },
+            {
+                "frequency": {
+                    "raw": "23917",
+                    "formatted": "23,917"
+                },
+                "lot": {
+                    "raw": "4476714",
+                    "formatted": "4.48M"
+                },
+                "time": "14:44"
+            },
+            {
+                "frequency": {
+                    "raw": "23989",
+                    "formatted": "23,989"
+                },
+                "lot": {
+                    "raw": "4484199",
+                    "formatted": "4.48M"
+                },
+                "time": "14:45"
+            },
+            {
+                "frequency": {
+                    "raw": "24032",
+                    "formatted": "24,032"
+                },
+                "lot": {
+                    "raw": "4511946",
+                    "formatted": "4.51M"
+                },
+                "time": "14:46"
+            },
+            {
+                "frequency": {
+                    "raw": "24081",
+                    "formatted": "24,081"
+                },
+                "lot": {
+                    "raw": "4537961",
+                    "formatted": "4.54M"
+                },
+                "time": "14:47"
+            },
+            {
+                "frequency": {
+                    "raw": "24133",
+                    "formatted": "24,133"
+                },
+                "lot": {
+                    "raw": "4571969",
+                    "formatted": "4.57M"
+                },
+                "time": "14:48"
+            },
+            {
+                "frequency": {
+                    "raw": "24150",
+                    "formatted": "24,150"
+                },
+                "lot": {
+                    "raw": "4574210",
+                    "formatted": "4.57M"
+                },
+                "time": "14:49"
+            },
+            {
+                "frequency": {
+                    "raw": "24268",
+                    "formatted": "24,268"
+                },
+                "lot": {
+                    "raw": "4671832",
+                    "formatted": "4.67M"
+                },
+                "time": "14:50"
+            },
+            {
+                "frequency": {
+                    "raw": "24286",
+                    "formatted": "24,286"
+                },
+                "lot": {
+                    "raw": "4676192",
+                    "formatted": "4.68M"
+                },
+                "time": "14:51"
+            },
+            {
+                "frequency": {
+                    "raw": "24323",
+                    "formatted": "24,323"
+                },
+                "lot": {
+                    "raw": "4682724",
+                    "formatted": "4.68M"
+                },
+                "time": "14:52"
+            },
+            {
+                "frequency": {
+                    "raw": "24353",
+                    "formatted": "24,353"
+                },
+                "lot": {
+                    "raw": "4687876",
+                    "formatted": "4.69M"
+                },
+                "time": "14:53"
+            },
+            {
+                "frequency": {
+                    "raw": "24373",
+                    "formatted": "24,373"
+                },
+                "lot": {
+                    "raw": "4688793",
+                    "formatted": "4.69M"
+                },
+                "time": "14:54"
+            },
+            {
+                "frequency": {
+                    "raw": "24447",
+                    "formatted": "24,447"
+                },
+                "lot": {
+                    "raw": "4705881",
+                    "formatted": "4.71M"
+                },
+                "time": "14:55"
+            },
+            {
+                "frequency": {
+                    "raw": "24506",
+                    "formatted": "24,506"
+                },
+                "lot": {
+                    "raw": "4716700",
+                    "formatted": "4.72M"
+                },
+                "time": "14:56"
+            },
+            {
+                "frequency": {
+                    "raw": "24571",
+                    "formatted": "24,571"
+                },
+                "lot": {
+                    "raw": "4725765",
+                    "formatted": "4.73M"
+                },
+                "time": "14:57"
+            },
+            {
+                "frequency": {
+                    "raw": "24595",
+                    "formatted": "24,595"
+                },
+                "lot": {
+                    "raw": "4727361",
+                    "formatted": "4.73M"
+                },
+                "time": "14:58"
+            },
+            {
+                "frequency": {
+                    "raw": "24628",
+                    "formatted": "24,628"
+                },
+                "lot": {
+                    "raw": "4730801",
+                    "formatted": "4.73M"
+                },
+                "time": "14:59"
+            },
+            {
+                "frequency": {
+                    "raw": "24667",
+                    "formatted": "24,667"
+                },
+                "lot": {
+                    "raw": "4740407",
+                    "formatted": "4.74M"
+                },
+                "time": "15:00"
+            },
+            {
+                "frequency": {
+                    "raw": "24735",
+                    "formatted": "24,735"
+                },
+                "lot": {
+                    "raw": "4756693",
+                    "formatted": "4.76M"
+                },
+                "time": "15:01"
+            },
+            {
+                "frequency": {
+                    "raw": "24764",
+                    "formatted": "24,764"
+                },
+                "lot": {
+                    "raw": "4762391",
+                    "formatted": "4.76M"
+                },
+                "time": "15:02"
+            },
+            {
+                "frequency": {
+                    "raw": "24800",
+                    "formatted": "24,800"
+                },
+                "lot": {
+                    "raw": "4767997",
+                    "formatted": "4.77M"
+                },
+                "time": "15:03"
+            },
+            {
+                "frequency": {
+                    "raw": "24823",
+                    "formatted": "24,823"
+                },
+                "lot": {
+                    "raw": "4768598",
+                    "formatted": "4.77M"
+                },
+                "time": "15:04"
+            },
+            {
+                "frequency": {
+                    "raw": "24859",
+                    "formatted": "24,859"
+                },
+                "lot": {
+                    "raw": "4774209",
+                    "formatted": "4.77M"
+                },
+                "time": "15:05"
+            },
+            {
+                "frequency": {
+                    "raw": "24876",
+                    "formatted": "24,876"
+                },
+                "lot": {
+                    "raw": "4775616",
+                    "formatted": "4.78M"
+                },
+                "time": "15:06"
+            },
+            {
+                "frequency": {
+                    "raw": "24954",
+                    "formatted": "24,954"
+                },
+                "lot": {
+                    "raw": "4785865",
+                    "formatted": "4.79M"
+                },
+                "time": "15:07"
+            },
+            {
+                "frequency": {
+                    "raw": "24974",
+                    "formatted": "24,974"
+                },
+                "lot": {
+                    "raw": "4788194",
+                    "formatted": "4.79M"
+                },
+                "time": "15:08"
+            },
+            {
+                "frequency": {
+                    "raw": "24992",
+                    "formatted": "24,992"
+                },
+                "lot": {
+                    "raw": "4788720",
+                    "formatted": "4.79M"
+                },
+                "time": "15:09"
+            },
+            {
+                "frequency": {
+                    "raw": "25012",
+                    "formatted": "25,012"
+                },
+                "lot": {
+                    "raw": "4793682",
+                    "formatted": "4.79M"
+                },
+                "time": "15:10"
+            },
+            {
+                "frequency": {
+                    "raw": "25042",
+                    "formatted": "25,042"
+                },
+                "lot": {
+                    "raw": "4798570",
+                    "formatted": "4.80M"
+                },
+                "time": "15:11"
+            },
+            {
+                "frequency": {
+                    "raw": "25080",
+                    "formatted": "25,080"
+                },
+                "lot": {
+                    "raw": "4803966",
+                    "formatted": "4.80M"
+                },
+                "time": "15:12"
+            },
+            {
+                "frequency": {
+                    "raw": "25101",
+                    "formatted": "25,101"
+                },
+                "lot": {
+                    "raw": "4804712",
+                    "formatted": "4.80M"
+                },
+                "time": "15:13"
+            },
+            {
+                "frequency": {
+                    "raw": "25133",
+                    "formatted": "25,133"
+                },
+                "lot": {
+                    "raw": "4806486",
+                    "formatted": "4.81M"
+                },
+                "time": "15:14"
+            },
+            {
+                "frequency": {
+                    "raw": "25161",
+                    "formatted": "25,161"
+                },
+                "lot": {
+                    "raw": "4812400",
+                    "formatted": "4.81M"
+                },
+                "time": "15:15"
+            },
+            {
+                "frequency": {
+                    "raw": "25177",
+                    "formatted": "25,177"
+                },
+                "lot": {
+                    "raw": "4812988",
+                    "formatted": "4.81M"
+                },
+                "time": "15:16"
+            },
+            {
+                "frequency": {
+                    "raw": "25219",
+                    "formatted": "25,219"
+                },
+                "lot": {
+                    "raw": "4818467",
+                    "formatted": "4.82M"
+                },
+                "time": "15:17"
+            },
+            {
+                "frequency": {
+                    "raw": "25259",
+                    "formatted": "25,259"
+                },
+                "lot": {
+                    "raw": "4821858",
+                    "formatted": "4.82M"
+                },
+                "time": "15:18"
+            },
+            {
+                "frequency": {
+                    "raw": "25265",
+                    "formatted": "25,265"
+                },
+                "lot": {
+                    "raw": "4823418",
+                    "formatted": "4.82M"
+                },
+                "time": "15:19"
+            },
+            {
+                "frequency": {
+                    "raw": "25314",
+                    "formatted": "25,314"
+                },
+                "lot": {
+                    "raw": "4831151",
+                    "formatted": "4.83M"
+                },
+                "time": "15:20"
+            },
+            {
+                "frequency": {
+                    "raw": "25342",
+                    "formatted": "25,342"
+                },
+                "lot": {
+                    "raw": "4832808",
+                    "formatted": "4.83M"
+                },
+                "time": "15:21"
+            },
+            {
+                "frequency": {
+                    "raw": "25399",
+                    "formatted": "25,399"
+                },
+                "lot": {
+                    "raw": "4838272",
+                    "formatted": "4.84M"
+                },
+                "time": "15:22"
+            },
+            {
+                "frequency": {
+                    "raw": "25566",
+                    "formatted": "25,566"
+                },
+                "lot": {
+                    "raw": "4875967",
+                    "formatted": "4.88M"
+                },
+                "time": "15:23"
+            },
+            {
+                "frequency": {
+                    "raw": "25586",
+                    "formatted": "25,586"
+                },
+                "lot": {
+                    "raw": "4876959",
+                    "formatted": "4.88M"
+                },
+                "time": "15:24"
+            },
+            {
+                "frequency": {
+                    "raw": "25629",
+                    "formatted": "25,629"
+                },
+                "lot": {
+                    "raw": "4882313",
+                    "formatted": "4.88M"
+                },
+                "time": "15:25"
+            },
+            {
+                "frequency": {
+                    "raw": "25648",
+                    "formatted": "25,648"
+                },
+                "lot": {
+                    "raw": "4883363",
+                    "formatted": "4.88M"
+                },
+                "time": "15:26"
+            },
+            {
+                "frequency": {
+                    "raw": "25706",
+                    "formatted": "25,706"
+                },
+                "lot": {
+                    "raw": "4890675",
+                    "formatted": "4.89M"
+                },
+                "time": "15:27"
+            },
+            {
+                "frequency": {
+                    "raw": "25735",
+                    "formatted": "25,735"
+                },
+                "lot": {
+                    "raw": "4892708",
+                    "formatted": "4.89M"
+                },
+                "time": "15:28"
+            },
+            {
+                "frequency": {
+                    "raw": "25771",
+                    "formatted": "25,771"
+                },
+                "lot": {
+                    "raw": "4898153",
+                    "formatted": "4.90M"
+                },
+                "time": "15:29"
+            },
+            {
+                "frequency": {
+                    "raw": "25787",
+                    "formatted": "25,787"
+                },
+                "lot": {
+                    "raw": "4899323",
+                    "formatted": "4.90M"
+                },
+                "time": "15:30"
+            },
+            {
+                "frequency": {
+                    "raw": "25805",
+                    "formatted": "25,805"
+                },
+                "lot": {
+                    "raw": "4900330",
+                    "formatted": "4.90M"
+                },
+                "time": "15:31"
+            },
+            {
+                "frequency": {
+                    "raw": "25843",
+                    "formatted": "25,843"
+                },
+                "lot": {
+                    "raw": "4905915",
+                    "formatted": "4.91M"
+                },
+                "time": "15:32"
+            },
+            {
+                "frequency": {
+                    "raw": "25864",
+                    "formatted": "25,864"
+                },
+                "lot": {
+                    "raw": "4910591",
+                    "formatted": "4.91M"
+                },
+                "time": "15:33"
+            },
+            {
+                "frequency": {
+                    "raw": "25891",
+                    "formatted": "25,891"
+                },
+                "lot": {
+                    "raw": "4916332",
+                    "formatted": "4.92M"
+                },
+                "time": "15:34"
+            },
+            {
+                "frequency": {
+                    "raw": "25916",
+                    "formatted": "25,916"
+                },
+                "lot": {
+                    "raw": "4920828",
+                    "formatted": "4.92M"
+                },
+                "time": "15:35"
+            },
+            {
+                "frequency": {
+                    "raw": "25941",
+                    "formatted": "25,941"
+                },
+                "lot": {
+                    "raw": "4927535",
+                    "formatted": "4.93M"
+                },
+                "time": "15:36"
+            },
+            {
+                "frequency": {
+                    "raw": "25975",
+                    "formatted": "25,975"
+                },
+                "lot": {
+                    "raw": "4935372",
+                    "formatted": "4.94M"
+                },
+                "time": "15:37"
+            },
+            {
+                "frequency": {
+                    "raw": "25987",
+                    "formatted": "25,987"
+                },
+                "lot": {
+                    "raw": "4936061",
+                    "formatted": "4.94M"
+                },
+                "time": "15:38"
+            },
+            {
+                "frequency": {
+                    "raw": "26002",
+                    "formatted": "26,002"
+                },
+                "lot": {
+                    "raw": "4936938",
+                    "formatted": "4.94M"
+                },
+                "time": "15:39"
+            },
+            {
+                "frequency": {
+                    "raw": "26384",
+                    "formatted": "26,384"
+                },
+                "lot": {
+                    "raw": "5056931",
+                    "formatted": "5.06M"
+                },
+                "time": "15:40"
+            },
+            {
+                "frequency": {
+                    "raw": "26572",
+                    "formatted": "26,572"
+                },
+                "lot": {
+                    "raw": "5129658",
+                    "formatted": "5.13M"
+                },
+                "time": "15:41"
+            },
+            {
+                "frequency": {
+                    "raw": "26610",
+                    "formatted": "26,610"
+                },
+                "lot": {
+                    "raw": "5138970",
+                    "formatted": "5.14M"
+                },
+                "time": "15:42"
+            },
+            {
+                "frequency": {
+                    "raw": "26625",
+                    "formatted": "26,625"
+                },
+                "lot": {
+                    "raw": "5143325",
+                    "formatted": "5.14M"
+                },
+                "time": "15:43"
+            },
+            {
+                "frequency": {
+                    "raw": "26645",
+                    "formatted": "26,645"
+                },
+                "lot": {
+                    "raw": "5144730",
+                    "formatted": "5.14M"
+                },
+                "time": "15:44"
+            },
+            {
+                "frequency": {
+                    "raw": "26682",
+                    "formatted": "26,682"
+                },
+                "lot": {
+                    "raw": "5156498",
+                    "formatted": "5.16M"
+                },
+                "time": "15:45"
+            },
+            {
+                "frequency": {
+                    "raw": "26713",
+                    "formatted": "26,713"
+                },
+                "lot": {
+                    "raw": "5163962",
+                    "formatted": "5.16M"
+                },
+                "time": "15:46"
+            },
+            {
+                "frequency": {
+                    "raw": "26751",
+                    "formatted": "26,751"
+                },
+                "lot": {
+                    "raw": "5171246",
+                    "formatted": "5.17M"
+                },
+                "time": "15:47"
+            },
+            {
+                "frequency": {
+                    "raw": "26811",
+                    "formatted": "26,811"
+                },
+                "lot": {
+                    "raw": "5191277",
+                    "formatted": "5.19M"
+                },
+                "time": "15:48"
+            },
+            {
+                "frequency": {
+                    "raw": "26847",
+                    "formatted": "26,847"
+                },
+                "lot": {
+                    "raw": "5194972",
+                    "formatted": "5.19M"
+                },
+                "time": "15:49"
+            },
+            {
+                "frequency": {
+                    "raw": "27347",
+                    "formatted": "27,347"
+                },
+                "lot": {
+                    "raw": "5318076",
+                    "formatted": "5.32M"
+                },
+                "time": "16:00"
+            },
+            {
+                "frequency": {
+                    "raw": "27347",
+                    "formatted": "27,347"
+                },
+                "lot": {
+                    "raw": "5318076",
+                    "formatted": "5.32M"
+                },
+                "time": "16:01"
+            },
+            {
+                "frequency": {
+                    "raw": "27515",
+                    "formatted": "27,515"
+                },
+                "lot": {
+                    "raw": "5351950",
+                    "formatted": "5.35M"
+                },
+                "time": "16:02"
+            },
+            {
+                "frequency": {
+                    "raw": "27537",
+                    "formatted": "27,537"
+                },
+                "lot": {
+                    "raw": "5354946",
+                    "formatted": "5.35M"
+                },
+                "time": "16:03"
+            },
+            {
+                "frequency": {
+                    "raw": "27556",
+                    "formatted": "27,556"
+                },
+                "lot": {
+                    "raw": "5357115",
+                    "formatted": "5.36M"
+                },
+                "time": "16:04"
+            },
+            {
+                "frequency": {
+                    "raw": "27573",
+                    "formatted": "27,573"
+                },
+                "lot": {
+                    "raw": "5357947",
+                    "formatted": "5.36M"
+                },
+                "time": "16:05"
+            },
+            {
+                "frequency": {
+                    "raw": "27593",
+                    "formatted": "27,593"
+                },
+                "lot": {
+                    "raw": "5359674",
+                    "formatted": "5.36M"
+                },
+                "time": "16:06"
+            },
+            {
+                "frequency": {
+                    "raw": "27614",
+                    "formatted": "27,614"
+                },
+                "lot": {
+                    "raw": "5363665",
+                    "formatted": "5.36M"
+                },
+                "time": "16:07"
+            },
+            {
+                "frequency": {
+                    "raw": "27629",
+                    "formatted": "27,629"
+                },
+                "lot": {
+                    "raw": "5364648",
+                    "formatted": "5.36M"
+                },
+                "time": "16:08"
+            },
+            {
+                "frequency": {
+                    "raw": "27646",
+                    "formatted": "27,646"
+                },
+                "lot": {
+                    "raw": "5367663",
+                    "formatted": "5.37M"
+                },
+                "time": "16:09"
+            },
+            {
+                "frequency": {
+                    "raw": "27666",
+                    "formatted": "27,666"
+                },
+                "lot": {
+                    "raw": "5368937",
+                    "formatted": "5.37M"
+                },
+                "time": "16:10"
+            },
+            {
+                "frequency": {
+                    "raw": "27682",
+                    "formatted": "27,682"
+                },
+                "lot": {
+                    "raw": "5369911",
+                    "formatted": "5.37M"
+                },
+                "time": "16:11"
+            },
+            {
+                "frequency": {
+                    "raw": "27694",
+                    "formatted": "27,694"
+                },
+                "lot": {
+                    "raw": "5370111",
+                    "formatted": "5.37M"
+                },
+                "time": "16:12"
+            },
+            {
+                "frequency": {
+                    "raw": "27701",
+                    "formatted": "27,701"
+                },
+                "lot": {
+                    "raw": "5370221",
+                    "formatted": "5.37M"
+                },
+                "time": "16:13"
+            },
+            {
+                "frequency": {
+                    "raw": "27717",
+                    "formatted": "27,717"
+                },
+                "lot": {
+                    "raw": "5371684",
+                    "formatted": "5.37M"
+                },
+                "time": "16:14"
+            }
+        ],
+        "sell": [
+            {
+                "frequency": {
+                    "raw": "999",
+                    "formatted": "999"
+                },
+                "lot": {
+                    "raw": "201548",
+                    "formatted": "201,548"
+                },
+                "time": "09:00"
+            },
+            {
+                "frequency": {
+                    "raw": "1434",
+                    "formatted": "1,434"
+                },
+                "lot": {
+                    "raw": "348477",
+                    "formatted": "348,477"
+                },
+                "time": "09:01"
+            },
+            {
+                "frequency": {
+                    "raw": "1581",
+                    "formatted": "1,581"
+                },
+                "lot": {
+                    "raw": "380514",
+                    "formatted": "380,514"
+                },
+                "time": "09:02"
+            },
+            {
+                "frequency": {
+                    "raw": "1802",
+                    "formatted": "1,802"
+                },
+                "lot": {
+                    "raw": "420542",
+                    "formatted": "420,542"
+                },
+                "time": "09:03"
+            },
+            {
+                "frequency": {
+                    "raw": "2066",
+                    "formatted": "2,066"
+                },
+                "lot": {
+                    "raw": "521060",
+                    "formatted": "521,060"
+                },
+                "time": "09:04"
+            },
+            {
+                "frequency": {
+                    "raw": "2123",
+                    "formatted": "2,123"
+                },
+                "lot": {
+                    "raw": "526945",
+                    "formatted": "526,945"
+                },
+                "time": "09:05"
+            },
+            {
+                "frequency": {
+                    "raw": "2447",
+                    "formatted": "2,447"
+                },
+                "lot": {
+                    "raw": "591476",
+                    "formatted": "591,476"
+                },
+                "time": "09:06"
+            },
+            {
+                "frequency": {
+                    "raw": "2519",
+                    "formatted": "2,519"
+                },
+                "lot": {
+                    "raw": "666198",
+                    "formatted": "666,198"
+                },
+                "time": "09:07"
+            },
+            {
+                "frequency": {
+                    "raw": "3144",
+                    "formatted": "3,144"
+                },
+                "lot": {
+                    "raw": "795807",
+                    "formatted": "795,807"
+                },
+                "time": "09:08"
+            },
+            {
+                "frequency": {
+                    "raw": "3228",
+                    "formatted": "3,228"
+                },
+                "lot": {
+                    "raw": "808963",
+                    "formatted": "808,963"
+                },
+                "time": "09:09"
+            },
+            {
+                "frequency": {
+                    "raw": "3822",
+                    "formatted": "3,822"
+                },
+                "lot": {
+                    "raw": "901848",
+                    "formatted": "901,848"
+                },
+                "time": "09:10"
+            },
+            {
+                "frequency": {
+                    "raw": "3917",
+                    "formatted": "3,917"
+                },
+                "lot": {
+                    "raw": "910290",
+                    "formatted": "910,290"
+                },
+                "time": "09:11"
+            },
+            {
+                "frequency": {
+                    "raw": "4045",
+                    "formatted": "4,045"
+                },
+                "lot": {
+                    "raw": "920146",
+                    "formatted": "920,146"
+                },
+                "time": "09:12"
+            },
+            {
+                "frequency": {
+                    "raw": "4114",
+                    "formatted": "4,114"
+                },
+                "lot": {
+                    "raw": "933195",
+                    "formatted": "933,195"
+                },
+                "time": "09:13"
+            },
+            {
+                "frequency": {
+                    "raw": "4161",
+                    "formatted": "4,161"
+                },
+                "lot": {
+                    "raw": "938793",
+                    "formatted": "938,793"
+                },
+                "time": "09:14"
+            },
+            {
+                "frequency": {
+                    "raw": "4663",
+                    "formatted": "4,663"
+                },
+                "lot": {
+                    "raw": "1031865",
+                    "formatted": "1.03M"
+                },
+                "time": "09:15"
+            },
+            {
+                "frequency": {
+                    "raw": "5295",
+                    "formatted": "5,295"
+                },
+                "lot": {
+                    "raw": "1113321",
+                    "formatted": "1.11M"
+                },
+                "time": "09:16"
+            },
+            {
+                "frequency": {
+                    "raw": "5507",
+                    "formatted": "5,507"
+                },
+                "lot": {
+                    "raw": "1131965",
+                    "formatted": "1.13M"
+                },
+                "time": "09:17"
+            },
+            {
+                "frequency": {
+                    "raw": "5963",
+                    "formatted": "5,963"
+                },
+                "lot": {
+                    "raw": "1213543",
+                    "formatted": "1.21M"
+                },
+                "time": "09:18"
+            },
+            {
+                "frequency": {
+                    "raw": "7790",
+                    "formatted": "7,790"
+                },
+                "lot": {
+                    "raw": "1549185",
+                    "formatted": "1.55M"
+                },
+                "time": "09:19"
+            },
+            {
+                "frequency": {
+                    "raw": "8198",
+                    "formatted": "8,198"
+                },
+                "lot": {
+                    "raw": "1617512",
+                    "formatted": "1.62M"
+                },
+                "time": "09:20"
+            },
+            {
+                "frequency": {
+                    "raw": "8276",
+                    "formatted": "8,276"
+                },
+                "lot": {
+                    "raw": "1632247",
+                    "formatted": "1.63M"
+                },
+                "time": "09:21"
+            },
+            {
+                "frequency": {
+                    "raw": "8446",
+                    "formatted": "8,446"
+                },
+                "lot": {
+                    "raw": "1665443",
+                    "formatted": "1.67M"
+                },
+                "time": "09:22"
+            },
+            {
+                "frequency": {
+                    "raw": "8641",
+                    "formatted": "8,641"
+                },
+                "lot": {
+                    "raw": "1675134",
+                    "formatted": "1.68M"
+                },
+                "time": "09:23"
+            },
+            {
+                "frequency": {
+                    "raw": "8828",
+                    "formatted": "8,828"
+                },
+                "lot": {
+                    "raw": "1709641",
+                    "formatted": "1.71M"
+                },
+                "time": "09:24"
+            },
+            {
+                "frequency": {
+                    "raw": "8942",
+                    "formatted": "8,942"
+                },
+                "lot": {
+                    "raw": "1716902",
+                    "formatted": "1.72M"
+                },
+                "time": "09:25"
+            },
+            {
+                "frequency": {
+                    "raw": "9097",
+                    "formatted": "9,097"
+                },
+                "lot": {
+                    "raw": "1744471",
+                    "formatted": "1.74M"
+                },
+                "time": "09:26"
+            },
+            {
+                "frequency": {
+                    "raw": "9518",
+                    "formatted": "9,518"
+                },
+                "lot": {
+                    "raw": "1783883",
+                    "formatted": "1.78M"
+                },
+                "time": "09:27"
+            },
+            {
+                "frequency": {
+                    "raw": "9708",
+                    "formatted": "9,708"
+                },
+                "lot": {
+                    "raw": "1818932",
+                    "formatted": "1.82M"
+                },
+                "time": "09:28"
+            },
+            {
+                "frequency": {
+                    "raw": "9976",
+                    "formatted": "9,976"
+                },
+                "lot": {
+                    "raw": "1844702",
+                    "formatted": "1.84M"
+                },
+                "time": "09:29"
+            },
+            {
+                "frequency": {
+                    "raw": "10974",
+                    "formatted": "10,974"
+                },
+                "lot": {
+                    "raw": "1965917",
+                    "formatted": "1.97M"
+                },
+                "time": "09:30"
+            },
+            {
+                "frequency": {
+                    "raw": "12807",
+                    "formatted": "12,807"
+                },
+                "lot": {
+                    "raw": "2151930",
+                    "formatted": "2.15M"
+                },
+                "time": "09:31"
+            },
+            {
+                "frequency": {
+                    "raw": "13837",
+                    "formatted": "13,837"
+                },
+                "lot": {
+                    "raw": "2333295",
+                    "formatted": "2.33M"
+                },
+                "time": "09:32"
+            },
+            {
+                "frequency": {
+                    "raw": "14191",
+                    "formatted": "14,191"
+                },
+                "lot": {
+                    "raw": "2399023",
+                    "formatted": "2.40M"
+                },
+                "time": "09:33"
+            },
+            {
+                "frequency": {
+                    "raw": "14281",
+                    "formatted": "14,281"
+                },
+                "lot": {
+                    "raw": "2414380",
+                    "formatted": "2.41M"
+                },
+                "time": "09:34"
+            },
+            {
+                "frequency": {
+                    "raw": "14357",
+                    "formatted": "14,357"
+                },
+                "lot": {
+                    "raw": "2429725",
+                    "formatted": "2.43M"
+                },
+                "time": "09:35"
+            },
+            {
+                "frequency": {
+                    "raw": "14556",
+                    "formatted": "14,556"
+                },
+                "lot": {
+                    "raw": "2541456",
+                    "formatted": "2.54M"
+                },
+                "time": "09:36"
+            },
+            {
+                "frequency": {
+                    "raw": "14786",
+                    "formatted": "14,786"
+                },
+                "lot": {
+                    "raw": "2619463",
+                    "formatted": "2.62M"
+                },
+                "time": "09:37"
+            },
+            {
+                "frequency": {
+                    "raw": "14857",
+                    "formatted": "14,857"
+                },
+                "lot": {
+                    "raw": "2627745",
+                    "formatted": "2.63M"
+                },
+                "time": "09:38"
+            },
+            {
+                "frequency": {
+                    "raw": "14879",
+                    "formatted": "14,879"
+                },
+                "lot": {
+                    "raw": "2632442",
+                    "formatted": "2.63M"
+                },
+                "time": "09:39"
+            },
+            {
+                "frequency": {
+                    "raw": "14902",
+                    "formatted": "14,902"
+                },
+                "lot": {
+                    "raw": "2634854",
+                    "formatted": "2.63M"
+                },
+                "time": "09:40"
+            },
+            {
+                "frequency": {
+                    "raw": "15022",
+                    "formatted": "15,022"
+                },
+                "lot": {
+                    "raw": "2652787",
+                    "formatted": "2.65M"
+                },
+                "time": "09:41"
+            },
+            {
+                "frequency": {
+                    "raw": "15075",
+                    "formatted": "15,075"
+                },
+                "lot": {
+                    "raw": "2672829",
+                    "formatted": "2.67M"
+                },
+                "time": "09:42"
+            },
+            {
+                "frequency": {
+                    "raw": "15105",
+                    "formatted": "15,105"
+                },
+                "lot": {
+                    "raw": "2677164",
+                    "formatted": "2.68M"
+                },
+                "time": "09:43"
+            },
+            {
+                "frequency": {
+                    "raw": "15116",
+                    "formatted": "15,116"
+                },
+                "lot": {
+                    "raw": "2677503",
+                    "formatted": "2.68M"
+                },
+                "time": "09:44"
+            },
+            {
+                "frequency": {
+                    "raw": "15134",
+                    "formatted": "15,134"
+                },
+                "lot": {
+                    "raw": "2677994",
+                    "formatted": "2.68M"
+                },
+                "time": "09:45"
+            },
+            {
+                "frequency": {
+                    "raw": "15229",
+                    "formatted": "15,229"
+                },
+                "lot": {
+                    "raw": "2697123",
+                    "formatted": "2.70M"
+                },
+                "time": "09:46"
+            },
+            {
+                "frequency": {
+                    "raw": "15370",
+                    "formatted": "15,370"
+                },
+                "lot": {
+                    "raw": "2709268",
+                    "formatted": "2.71M"
+                },
+                "time": "09:47"
+            },
+            {
+                "frequency": {
+                    "raw": "15387",
+                    "formatted": "15,387"
+                },
+                "lot": {
+                    "raw": "2710524",
+                    "formatted": "2.71M"
+                },
+                "time": "09:48"
+            },
+            {
+                "frequency": {
+                    "raw": "15440",
+                    "formatted": "15,440"
+                },
+                "lot": {
+                    "raw": "2740158",
+                    "formatted": "2.74M"
+                },
+                "time": "09:49"
+            },
+            {
+                "frequency": {
+                    "raw": "15495",
+                    "formatted": "15,495"
+                },
+                "lot": {
+                    "raw": "2809130",
+                    "formatted": "2.81M"
+                },
+                "time": "09:50"
+            },
+            {
+                "frequency": {
+                    "raw": "15520",
+                    "formatted": "15,520"
+                },
+                "lot": {
+                    "raw": "2811261",
+                    "formatted": "2.81M"
+                },
+                "time": "09:51"
+            },
+            {
+                "frequency": {
+                    "raw": "15835",
+                    "formatted": "15,835"
+                },
+                "lot": {
+                    "raw": "2884120",
+                    "formatted": "2.88M"
+                },
+                "time": "09:52"
+            },
+            {
+                "frequency": {
+                    "raw": "15873",
+                    "formatted": "15,873"
+                },
+                "lot": {
+                    "raw": "2885159",
+                    "formatted": "2.89M"
+                },
+                "time": "09:53"
+            },
+            {
+                "frequency": {
+                    "raw": "15985",
+                    "formatted": "15,985"
+                },
+                "lot": {
+                    "raw": "2892254",
+                    "formatted": "2.89M"
+                },
+                "time": "09:54"
+            },
+            {
+                "frequency": {
+                    "raw": "16007",
+                    "formatted": "16,007"
+                },
+                "lot": {
+                    "raw": "2893627",
+                    "formatted": "2.89M"
+                },
+                "time": "09:55"
+            },
+            {
+                "frequency": {
+                    "raw": "16021",
+                    "formatted": "16,021"
+                },
+                "lot": {
+                    "raw": "2893897",
+                    "formatted": "2.89M"
+                },
+                "time": "09:56"
+            },
+            {
+                "frequency": {
+                    "raw": "16051",
+                    "formatted": "16,051"
+                },
+                "lot": {
+                    "raw": "2902259",
+                    "formatted": "2.90M"
+                },
+                "time": "09:57"
+            },
+            {
+                "frequency": {
+                    "raw": "16067",
+                    "formatted": "16,067"
+                },
+                "lot": {
+                    "raw": "2902821",
+                    "formatted": "2.90M"
+                },
+                "time": "09:58"
+            },
+            {
+                "frequency": {
+                    "raw": "16083",
+                    "formatted": "16,083"
+                },
+                "lot": {
+                    "raw": "2904095",
+                    "formatted": "2.90M"
+                },
+                "time": "09:59"
+            },
+            {
+                "frequency": {
+                    "raw": "16110",
+                    "formatted": "16,110"
+                },
+                "lot": {
+                    "raw": "2905020",
+                    "formatted": "2.91M"
+                },
+                "time": "10:00"
+            },
+            {
+                "frequency": {
+                    "raw": "16151",
+                    "formatted": "16,151"
+                },
+                "lot": {
+                    "raw": "2906983",
+                    "formatted": "2.91M"
+                },
+                "time": "10:01"
+            },
+            {
+                "frequency": {
+                    "raw": "16166",
+                    "formatted": "16,166"
+                },
+                "lot": {
+                    "raw": "2911015",
+                    "formatted": "2.91M"
+                },
+                "time": "10:02"
+            },
+            {
+                "frequency": {
+                    "raw": "16200",
+                    "formatted": "16,200"
+                },
+                "lot": {
+                    "raw": "2912056",
+                    "formatted": "2.91M"
+                },
+                "time": "10:03"
+            },
+            {
+                "frequency": {
+                    "raw": "16222",
+                    "formatted": "16,222"
+                },
+                "lot": {
+                    "raw": "2915913",
+                    "formatted": "2.92M"
+                },
+                "time": "10:04"
+            },
+            {
+                "frequency": {
+                    "raw": "16260",
+                    "formatted": "16,260"
+                },
+                "lot": {
+                    "raw": "2925530",
+                    "formatted": "2.93M"
+                },
+                "time": "10:05"
+            },
+            {
+                "frequency": {
+                    "raw": "16874",
+                    "formatted": "16,874"
+                },
+                "lot": {
+                    "raw": "2976507",
+                    "formatted": "2.98M"
+                },
+                "time": "10:06"
+            },
+            {
+                "frequency": {
+                    "raw": "16983",
+                    "formatted": "16,983"
+                },
+                "lot": {
+                    "raw": "2984095",
+                    "formatted": "2.98M"
+                },
+                "time": "10:07"
+            },
+            {
+                "frequency": {
+                    "raw": "17045",
+                    "formatted": "17,045"
+                },
+                "lot": {
+                    "raw": "2988451",
+                    "formatted": "2.99M"
+                },
+                "time": "10:08"
+            },
+            {
+                "frequency": {
+                    "raw": "17078",
+                    "formatted": "17,078"
+                },
+                "lot": {
+                    "raw": "2993453",
+                    "formatted": "2.99M"
+                },
+                "time": "10:09"
+            },
+            {
+                "frequency": {
+                    "raw": "17111",
+                    "formatted": "17,111"
+                },
+                "lot": {
+                    "raw": "2997541",
+                    "formatted": "3.00M"
+                },
+                "time": "10:10"
+            },
+            {
+                "frequency": {
+                    "raw": "17170",
+                    "formatted": "17,170"
+                },
+                "lot": {
+                    "raw": "3003441",
+                    "formatted": "3.00M"
+                },
+                "time": "10:11"
+            },
+            {
+                "frequency": {
+                    "raw": "17186",
+                    "formatted": "17,186"
+                },
+                "lot": {
+                    "raw": "3004527",
+                    "formatted": "3.00M"
+                },
+                "time": "10:12"
+            },
+            {
+                "frequency": {
+                    "raw": "17223",
+                    "formatted": "17,223"
+                },
+                "lot": {
+                    "raw": "3011654",
+                    "formatted": "3.01M"
+                },
+                "time": "10:13"
+            },
+            {
+                "frequency": {
+                    "raw": "17270",
+                    "formatted": "17,270"
+                },
+                "lot": {
+                    "raw": "3022816",
+                    "formatted": "3.02M"
+                },
+                "time": "10:14"
+            },
+            {
+                "frequency": {
+                    "raw": "17307",
+                    "formatted": "17,307"
+                },
+                "lot": {
+                    "raw": "3057394",
+                    "formatted": "3.06M"
+                },
+                "time": "10:15"
+            },
+            {
+                "frequency": {
+                    "raw": "17359",
+                    "formatted": "17,359"
+                },
+                "lot": {
+                    "raw": "3072348",
+                    "formatted": "3.07M"
+                },
+                "time": "10:16"
+            },
+            {
+                "frequency": {
+                    "raw": "17386",
+                    "formatted": "17,386"
+                },
+                "lot": {
+                    "raw": "3077213",
+                    "formatted": "3.08M"
+                },
+                "time": "10:17"
+            },
+            {
+                "frequency": {
+                    "raw": "17411",
+                    "formatted": "17,411"
+                },
+                "lot": {
+                    "raw": "3079131",
+                    "formatted": "3.08M"
+                },
+                "time": "10:18"
+            },
+            {
+                "frequency": {
+                    "raw": "17425",
+                    "formatted": "17,425"
+                },
+                "lot": {
+                    "raw": "3079620",
+                    "formatted": "3.08M"
+                },
+                "time": "10:19"
+            },
+            {
+                "frequency": {
+                    "raw": "17470",
+                    "formatted": "17,470"
+                },
+                "lot": {
+                    "raw": "3084738",
+                    "formatted": "3.08M"
+                },
+                "time": "10:20"
+            },
+            {
+                "frequency": {
+                    "raw": "17516",
+                    "formatted": "17,516"
+                },
+                "lot": {
+                    "raw": "3087927",
+                    "formatted": "3.09M"
+                },
+                "time": "10:21"
+            },
+            {
+                "frequency": {
+                    "raw": "17547",
+                    "formatted": "17,547"
+                },
+                "lot": {
+                    "raw": "3088894",
+                    "formatted": "3.09M"
+                },
+                "time": "10:22"
+            },
+            {
+                "frequency": {
+                    "raw": "17615",
+                    "formatted": "17,615"
+                },
+                "lot": {
+                    "raw": "3101408",
+                    "formatted": "3.10M"
+                },
+                "time": "10:23"
+            },
+            {
+                "frequency": {
+                    "raw": "18141",
+                    "formatted": "18,141"
+                },
+                "lot": {
+                    "raw": "3257730",
+                    "formatted": "3.26M"
+                },
+                "time": "10:24"
+            },
+            {
+                "frequency": {
+                    "raw": "18187",
+                    "formatted": "18,187"
+                },
+                "lot": {
+                    "raw": "3266863",
+                    "formatted": "3.27M"
+                },
+                "time": "10:25"
+            },
+            {
+                "frequency": {
+                    "raw": "18210",
+                    "formatted": "18,210"
+                },
+                "lot": {
+                    "raw": "3269571",
+                    "formatted": "3.27M"
+                },
+                "time": "10:26"
+            },
+            {
+                "frequency": {
+                    "raw": "18289",
+                    "formatted": "18,289"
+                },
+                "lot": {
+                    "raw": "3296112",
+                    "formatted": "3.30M"
+                },
+                "time": "10:27"
+            },
+            {
+                "frequency": {
+                    "raw": "18427",
+                    "formatted": "18,427"
+                },
+                "lot": {
+                    "raw": "3317898",
+                    "formatted": "3.32M"
+                },
+                "time": "10:28"
+            },
+            {
+                "frequency": {
+                    "raw": "18902",
+                    "formatted": "18,902"
+                },
+                "lot": {
+                    "raw": "3376309",
+                    "formatted": "3.38M"
+                },
+                "time": "10:29"
+            },
+            {
+                "frequency": {
+                    "raw": "18987",
+                    "formatted": "18,987"
+                },
+                "lot": {
+                    "raw": "3381141",
+                    "formatted": "3.38M"
+                },
+                "time": "10:30"
+            },
+            {
+                "frequency": {
+                    "raw": "19706",
+                    "formatted": "19,706"
+                },
+                "lot": {
+                    "raw": "3455909",
+                    "formatted": "3.46M"
+                },
+                "time": "10:31"
+            },
+            {
+                "frequency": {
+                    "raw": "19852",
+                    "formatted": "19,852"
+                },
+                "lot": {
+                    "raw": "3468775",
+                    "formatted": "3.47M"
+                },
+                "time": "10:32"
+            },
+            {
+                "frequency": {
+                    "raw": "19950",
+                    "formatted": "19,950"
+                },
+                "lot": {
+                    "raw": "3475759",
+                    "formatted": "3.48M"
+                },
+                "time": "10:33"
+            },
+            {
+                "frequency": {
+                    "raw": "20018",
+                    "formatted": "20,018"
+                },
+                "lot": {
+                    "raw": "3496053",
+                    "formatted": "3.50M"
+                },
+                "time": "10:34"
+            },
+            {
+                "frequency": {
+                    "raw": "20050",
+                    "formatted": "20,050"
+                },
+                "lot": {
+                    "raw": "3499602",
+                    "formatted": "3.50M"
+                },
+                "time": "10:35"
+            },
+            {
+                "frequency": {
+                    "raw": "20218",
+                    "formatted": "20,218"
+                },
+                "lot": {
+                    "raw": "3503273",
+                    "formatted": "3.50M"
+                },
+                "time": "10:36"
+            },
+            {
+                "frequency": {
+                    "raw": "20238",
+                    "formatted": "20,238"
+                },
+                "lot": {
+                    "raw": "3505343",
+                    "formatted": "3.51M"
+                },
+                "time": "10:37"
+            },
+            {
+                "frequency": {
+                    "raw": "20283",
+                    "formatted": "20,283"
+                },
+                "lot": {
+                    "raw": "3507658",
+                    "formatted": "3.51M"
+                },
+                "time": "10:38"
+            },
+            {
+                "frequency": {
+                    "raw": "20300",
+                    "formatted": "20,300"
+                },
+                "lot": {
+                    "raw": "3509086",
+                    "formatted": "3.51M"
+                },
+                "time": "10:39"
+            },
+            {
+                "frequency": {
+                    "raw": "20315",
+                    "formatted": "20,315"
+                },
+                "lot": {
+                    "raw": "3511713",
+                    "formatted": "3.51M"
+                },
+                "time": "10:40"
+            },
+            {
+                "frequency": {
+                    "raw": "20324",
+                    "formatted": "20,324"
+                },
+                "lot": {
+                    "raw": "3511982",
+                    "formatted": "3.51M"
+                },
+                "time": "10:41"
+            },
+            {
+                "frequency": {
+                    "raw": "20345",
+                    "formatted": "20,345"
+                },
+                "lot": {
+                    "raw": "3512256",
+                    "formatted": "3.51M"
+                },
+                "time": "10:42"
+            },
+            {
+                "frequency": {
+                    "raw": "20538",
+                    "formatted": "20,538"
+                },
+                "lot": {
+                    "raw": "3562807",
+                    "formatted": "3.56M"
+                },
+                "time": "10:43"
+            },
+            {
+                "frequency": {
+                    "raw": "20546",
+                    "formatted": "20,546"
+                },
+                "lot": {
+                    "raw": "3573559",
+                    "formatted": "3.57M"
+                },
+                "time": "10:44"
+            },
+            {
+                "frequency": {
+                    "raw": "20580",
+                    "formatted": "20,580"
+                },
+                "lot": {
+                    "raw": "3576551",
+                    "formatted": "3.58M"
+                },
+                "time": "10:45"
+            },
+            {
+                "frequency": {
+                    "raw": "20590",
+                    "formatted": "20,590"
+                },
+                "lot": {
+                    "raw": "3577151",
+                    "formatted": "3.58M"
+                },
+                "time": "10:46"
+            },
+            {
+                "frequency": {
+                    "raw": "20599",
+                    "formatted": "20,599"
+                },
+                "lot": {
+                    "raw": "3577222",
+                    "formatted": "3.58M"
+                },
+                "time": "10:47"
+            },
+            {
+                "frequency": {
+                    "raw": "20613",
+                    "formatted": "20,613"
+                },
+                "lot": {
+                    "raw": "3577425",
+                    "formatted": "3.58M"
+                },
+                "time": "10:48"
+            },
+            {
+                "frequency": {
+                    "raw": "20695",
+                    "formatted": "20,695"
+                },
+                "lot": {
+                    "raw": "3587931",
+                    "formatted": "3.59M"
+                },
+                "time": "10:49"
+            },
+            {
+                "frequency": {
+                    "raw": "20706",
+                    "formatted": "20,706"
+                },
+                "lot": {
+                    "raw": "3590136",
+                    "formatted": "3.59M"
+                },
+                "time": "10:50"
+            },
+            {
+                "frequency": {
+                    "raw": "20734",
+                    "formatted": "20,734"
+                },
+                "lot": {
+                    "raw": "3595055",
+                    "formatted": "3.60M"
+                },
+                "time": "10:51"
+            },
+            {
+                "frequency": {
+                    "raw": "20803",
+                    "formatted": "20,803"
+                },
+                "lot": {
+                    "raw": "3602893",
+                    "formatted": "3.60M"
+                },
+                "time": "10:52"
+            },
+            {
+                "frequency": {
+                    "raw": "20897",
+                    "formatted": "20,897"
+                },
+                "lot": {
+                    "raw": "3612960",
+                    "formatted": "3.61M"
+                },
+                "time": "10:53"
+            },
+            {
+                "frequency": {
+                    "raw": "20937",
+                    "formatted": "20,937"
+                },
+                "lot": {
+                    "raw": "3614991",
+                    "formatted": "3.61M"
+                },
+                "time": "10:54"
+            },
+            {
+                "frequency": {
+                    "raw": "20951",
+                    "formatted": "20,951"
+                },
+                "lot": {
+                    "raw": "3615703",
+                    "formatted": "3.62M"
+                },
+                "time": "10:55"
+            },
+            {
+                "frequency": {
+                    "raw": "20967",
+                    "formatted": "20,967"
+                },
+                "lot": {
+                    "raw": "3616469",
+                    "formatted": "3.62M"
+                },
+                "time": "10:56"
+            },
+            {
+                "frequency": {
+                    "raw": "20974",
+                    "formatted": "20,974"
+                },
+                "lot": {
+                    "raw": "3616570",
+                    "formatted": "3.62M"
+                },
+                "time": "10:57"
+            },
+            {
+                "frequency": {
+                    "raw": "20979",
+                    "formatted": "20,979"
+                },
+                "lot": {
+                    "raw": "3616803",
+                    "formatted": "3.62M"
+                },
+                "time": "10:58"
+            },
+            {
+                "frequency": {
+                    "raw": "20986",
+                    "formatted": "20,986"
+                },
+                "lot": {
+                    "raw": "3617350",
+                    "formatted": "3.62M"
+                },
+                "time": "10:59"
+            },
+            {
+                "frequency": {
+                    "raw": "22876",
+                    "formatted": "22,876"
+                },
+                "lot": {
+                    "raw": "3827764",
+                    "formatted": "3.83M"
+                },
+                "time": "11:00"
+            },
+            {
+                "frequency": {
+                    "raw": "22916",
+                    "formatted": "22,916"
+                },
+                "lot": {
+                    "raw": "3832209",
+                    "formatted": "3.83M"
+                },
+                "time": "11:01"
+            },
+            {
+                "frequency": {
+                    "raw": "22949",
+                    "formatted": "22,949"
+                },
+                "lot": {
+                    "raw": "3836022",
+                    "formatted": "3.84M"
+                },
+                "time": "11:02"
+            },
+            {
+                "frequency": {
+                    "raw": "23062",
+                    "formatted": "23,062"
+                },
+                "lot": {
+                    "raw": "3846987",
+                    "formatted": "3.85M"
+                },
+                "time": "11:03"
+            },
+            {
+                "frequency": {
+                    "raw": "23093",
+                    "formatted": "23,093"
+                },
+                "lot": {
+                    "raw": "3848878",
+                    "formatted": "3.85M"
+                },
+                "time": "11:04"
+            },
+            {
+                "frequency": {
+                    "raw": "23146",
+                    "formatted": "23,146"
+                },
+                "lot": {
+                    "raw": "3850500",
+                    "formatted": "3.85M"
+                },
+                "time": "11:05"
+            },
+            {
+                "frequency": {
+                    "raw": "23163",
+                    "formatted": "23,163"
+                },
+                "lot": {
+                    "raw": "3855402",
+                    "formatted": "3.86M"
+                },
+                "time": "11:06"
+            },
+            {
+                "frequency": {
+                    "raw": "23177",
+                    "formatted": "23,177"
+                },
+                "lot": {
+                    "raw": "3855922",
+                    "formatted": "3.86M"
+                },
+                "time": "11:07"
+            },
+            {
+                "frequency": {
+                    "raw": "23213",
+                    "formatted": "23,213"
+                },
+                "lot": {
+                    "raw": "3859744",
+                    "formatted": "3.86M"
+                },
+                "time": "11:08"
+            },
+            {
+                "frequency": {
+                    "raw": "23249",
+                    "formatted": "23,249"
+                },
+                "lot": {
+                    "raw": "3871706",
+                    "formatted": "3.87M"
+                },
+                "time": "11:09"
+            },
+            {
+                "frequency": {
+                    "raw": "23266",
+                    "formatted": "23,266"
+                },
+                "lot": {
+                    "raw": "3874736",
+                    "formatted": "3.87M"
+                },
+                "time": "11:10"
+            },
+            {
+                "frequency": {
+                    "raw": "23319",
+                    "formatted": "23,319"
+                },
+                "lot": {
+                    "raw": "3887042",
+                    "formatted": "3.89M"
+                },
+                "time": "11:11"
+            },
+            {
+                "frequency": {
+                    "raw": "23335",
+                    "formatted": "23,335"
+                },
+                "lot": {
+                    "raw": "3887774",
+                    "formatted": "3.89M"
+                },
+                "time": "11:12"
+            },
+            {
+                "frequency": {
+                    "raw": "23414",
+                    "formatted": "23,414"
+                },
+                "lot": {
+                    "raw": "3930925",
+                    "formatted": "3.93M"
+                },
+                "time": "11:13"
+            },
+            {
+                "frequency": {
+                    "raw": "23434",
+                    "formatted": "23,434"
+                },
+                "lot": {
+                    "raw": "3933323",
+                    "formatted": "3.93M"
+                },
+                "time": "11:14"
+            },
+            {
+                "frequency": {
+                    "raw": "23449",
+                    "formatted": "23,449"
+                },
+                "lot": {
+                    "raw": "3933642",
+                    "formatted": "3.93M"
+                },
+                "time": "11:15"
+            },
+            {
+                "frequency": {
+                    "raw": "23463",
+                    "formatted": "23,463"
+                },
+                "lot": {
+                    "raw": "3934821",
+                    "formatted": "3.93M"
+                },
+                "time": "11:16"
+            },
+            {
+                "frequency": {
+                    "raw": "23474",
+                    "formatted": "23,474"
+                },
+                "lot": {
+                    "raw": "3935115",
+                    "formatted": "3.94M"
+                },
+                "time": "11:17"
+            },
+            {
+                "frequency": {
+                    "raw": "23499",
+                    "formatted": "23,499"
+                },
+                "lot": {
+                    "raw": "3944269",
+                    "formatted": "3.94M"
+                },
+                "time": "11:18"
+            },
+            {
+                "frequency": {
+                    "raw": "23512",
+                    "formatted": "23,512"
+                },
+                "lot": {
+                    "raw": "3945443",
+                    "formatted": "3.95M"
+                },
+                "time": "11:19"
+            },
+            {
+                "frequency": {
+                    "raw": "23532",
+                    "formatted": "23,532"
+                },
+                "lot": {
+                    "raw": "3949180",
+                    "formatted": "3.95M"
+                },
+                "time": "11:20"
+            },
+            {
+                "frequency": {
+                    "raw": "23548",
+                    "formatted": "23,548"
+                },
+                "lot": {
+                    "raw": "3953273",
+                    "formatted": "3.95M"
+                },
+                "time": "11:21"
+            },
+            {
+                "frequency": {
+                    "raw": "23566",
+                    "formatted": "23,566"
+                },
+                "lot": {
+                    "raw": "3959072",
+                    "formatted": "3.96M"
+                },
+                "time": "11:22"
+            },
+            {
+                "frequency": {
+                    "raw": "23727",
+                    "formatted": "23,727"
+                },
+                "lot": {
+                    "raw": "4007429",
+                    "formatted": "4.01M"
+                },
+                "time": "11:23"
+            },
+            {
+                "frequency": {
+                    "raw": "23736",
+                    "formatted": "23,736"
+                },
+                "lot": {
+                    "raw": "4007804",
+                    "formatted": "4.01M"
+                },
+                "time": "11:24"
+            },
+            {
+                "frequency": {
+                    "raw": "23764",
+                    "formatted": "23,764"
+                },
+                "lot": {
+                    "raw": "4009465",
+                    "formatted": "4.01M"
+                },
+                "time": "11:25"
+            },
+            {
+                "frequency": {
+                    "raw": "23781",
+                    "formatted": "23,781"
+                },
+                "lot": {
+                    "raw": "4010303",
+                    "formatted": "4.01M"
+                },
+                "time": "11:26"
+            },
+            {
+                "frequency": {
+                    "raw": "23800",
+                    "formatted": "23,800"
+                },
+                "lot": {
+                    "raw": "4012020",
+                    "formatted": "4.01M"
+                },
+                "time": "11:27"
+            },
+            {
+                "frequency": {
+                    "raw": "23813",
+                    "formatted": "23,813"
+                },
+                "lot": {
+                    "raw": "4012993",
+                    "formatted": "4.01M"
+                },
+                "time": "11:28"
+            },
+            {
+                "frequency": {
+                    "raw": "23872",
+                    "formatted": "23,872"
+                },
+                "lot": {
+                    "raw": "4016351",
+                    "formatted": "4.02M"
+                },
+                "time": "11:29"
+            },
+            {
+                "frequency": {
+                    "raw": "24369",
+                    "formatted": "24,369"
+                },
+                "lot": {
+                    "raw": "4159220",
+                    "formatted": "4.16M"
+                },
+                "time": "14:00"
+            },
+            {
+                "frequency": {
+                    "raw": "24400",
+                    "formatted": "24,400"
+                },
+                "lot": {
+                    "raw": "4163626",
+                    "formatted": "4.16M"
+                },
+                "time": "14:01"
+            },
+            {
+                "frequency": {
+                    "raw": "24588",
+                    "formatted": "24,588"
+                },
+                "lot": {
+                    "raw": "4191770",
+                    "formatted": "4.19M"
+                },
+                "time": "14:02"
+            },
+            {
+                "frequency": {
+                    "raw": "24675",
+                    "formatted": "24,675"
+                },
+                "lot": {
+                    "raw": "4227297",
+                    "formatted": "4.23M"
+                },
+                "time": "14:03"
+            },
+            {
+                "frequency": {
+                    "raw": "24725",
+                    "formatted": "24,725"
+                },
+                "lot": {
+                    "raw": "4234004",
+                    "formatted": "4.23M"
+                },
+                "time": "14:04"
+            },
+            {
+                "frequency": {
+                    "raw": "24833",
+                    "formatted": "24,833"
+                },
+                "lot": {
+                    "raw": "4277633",
+                    "formatted": "4.28M"
+                },
+                "time": "14:05"
+            },
+            {
+                "frequency": {
+                    "raw": "24856",
+                    "formatted": "24,856"
+                },
+                "lot": {
+                    "raw": "4279167",
+                    "formatted": "4.28M"
+                },
+                "time": "14:06"
+            },
+            {
+                "frequency": {
+                    "raw": "25052",
+                    "formatted": "25,052"
+                },
+                "lot": {
+                    "raw": "4284572",
+                    "formatted": "4.28M"
+                },
+                "time": "14:07"
+            },
+            {
+                "frequency": {
+                    "raw": "25740",
+                    "formatted": "25,740"
+                },
+                "lot": {
+                    "raw": "4348769",
+                    "formatted": "4.35M"
+                },
+                "time": "14:08"
+            },
+            {
+                "frequency": {
+                    "raw": "25915",
+                    "formatted": "25,915"
+                },
+                "lot": {
+                    "raw": "4368372",
+                    "formatted": "4.37M"
+                },
+                "time": "14:09"
+            },
+            {
+                "frequency": {
+                    "raw": "26550",
+                    "formatted": "26,550"
+                },
+                "lot": {
+                    "raw": "4433765",
+                    "formatted": "4.43M"
+                },
+                "time": "14:10"
+            },
+            {
+                "frequency": {
+                    "raw": "26657",
+                    "formatted": "26,657"
+                },
+                "lot": {
+                    "raw": "4445152",
+                    "formatted": "4.45M"
+                },
+                "time": "14:11"
+            },
+            {
+                "frequency": {
+                    "raw": "26667",
+                    "formatted": "26,667"
+                },
+                "lot": {
+                    "raw": "4445679",
+                    "formatted": "4.45M"
+                },
+                "time": "14:12"
+            },
+            {
+                "frequency": {
+                    "raw": "26835",
+                    "formatted": "26,835"
+                },
+                "lot": {
+                    "raw": "4463977",
+                    "formatted": "4.46M"
+                },
+                "time": "14:13"
+            },
+            {
+                "frequency": {
+                    "raw": "27463",
+                    "formatted": "27,463"
+                },
+                "lot": {
+                    "raw": "4580640",
+                    "formatted": "4.58M"
+                },
+                "time": "14:14"
+            },
+            {
+                "frequency": {
+                    "raw": "27530",
+                    "formatted": "27,530"
+                },
+                "lot": {
+                    "raw": "4586307",
+                    "formatted": "4.59M"
+                },
+                "time": "14:15"
+            },
+            {
+                "frequency": {
+                    "raw": "27582",
+                    "formatted": "27,582"
+                },
+                "lot": {
+                    "raw": "4593619",
+                    "formatted": "4.59M"
+                },
+                "time": "14:16"
+            },
+            {
+                "frequency": {
+                    "raw": "28684",
+                    "formatted": "28,684"
+                },
+                "lot": {
+                    "raw": "4730233",
+                    "formatted": "4.73M"
+                },
+                "time": "14:17"
+            },
+            {
+                "frequency": {
+                    "raw": "28785",
+                    "formatted": "28,785"
+                },
+                "lot": {
+                    "raw": "4747167",
+                    "formatted": "4.75M"
+                },
+                "time": "14:18"
+            },
+            {
+                "frequency": {
+                    "raw": "28859",
+                    "formatted": "28,859"
+                },
+                "lot": {
+                    "raw": "4755299",
+                    "formatted": "4.76M"
+                },
+                "time": "14:19"
+            },
+            {
+                "frequency": {
+                    "raw": "28944",
+                    "formatted": "28,944"
+                },
+                "lot": {
+                    "raw": "4766913",
+                    "formatted": "4.77M"
+                },
+                "time": "14:20"
+            },
+            {
+                "frequency": {
+                    "raw": "28971",
+                    "formatted": "28,971"
+                },
+                "lot": {
+                    "raw": "4770797",
+                    "formatted": "4.77M"
+                },
+                "time": "14:21"
+            },
+            {
+                "frequency": {
+                    "raw": "28987",
+                    "formatted": "28,987"
+                },
+                "lot": {
+                    "raw": "4777481",
+                    "formatted": "4.78M"
+                },
+                "time": "14:22"
+            },
+            {
+                "frequency": {
+                    "raw": "28999",
+                    "formatted": "28,999"
+                },
+                "lot": {
+                    "raw": "4778866",
+                    "formatted": "4.78M"
+                },
+                "time": "14:23"
+            },
+            {
+                "frequency": {
+                    "raw": "29019",
+                    "formatted": "29,019"
+                },
+                "lot": {
+                    "raw": "4780798",
+                    "formatted": "4.78M"
+                },
+                "time": "14:24"
+            },
+            {
+                "frequency": {
+                    "raw": "29038",
+                    "formatted": "29,038"
+                },
+                "lot": {
+                    "raw": "4782711",
+                    "formatted": "4.78M"
+                },
+                "time": "14:25"
+            },
+            {
+                "frequency": {
+                    "raw": "29053",
+                    "formatted": "29,053"
+                },
+                "lot": {
+                    "raw": "4787204",
+                    "formatted": "4.79M"
+                },
+                "time": "14:26"
+            },
+            {
+                "frequency": {
+                    "raw": "29059",
+                    "formatted": "29,059"
+                },
+                "lot": {
+                    "raw": "4787654",
+                    "formatted": "4.79M"
+                },
+                "time": "14:27"
+            },
+            {
+                "frequency": {
+                    "raw": "29077",
+                    "formatted": "29,077"
+                },
+                "lot": {
+                    "raw": "4790382",
+                    "formatted": "4.79M"
+                },
+                "time": "14:28"
+            },
+            {
+                "frequency": {
+                    "raw": "29106",
+                    "formatted": "29,106"
+                },
+                "lot": {
+                    "raw": "4794004",
+                    "formatted": "4.79M"
+                },
+                "time": "14:29"
+            },
+            {
+                "frequency": {
+                    "raw": "29154",
+                    "formatted": "29,154"
+                },
+                "lot": {
+                    "raw": "4798956",
+                    "formatted": "4.80M"
+                },
+                "time": "14:30"
+            },
+            {
+                "frequency": {
+                    "raw": "29180",
+                    "formatted": "29,180"
+                },
+                "lot": {
+                    "raw": "4804496",
+                    "formatted": "4.80M"
+                },
+                "time": "14:31"
+            },
+            {
+                "frequency": {
+                    "raw": "29205",
+                    "formatted": "29,205"
+                },
+                "lot": {
+                    "raw": "4807807",
+                    "formatted": "4.81M"
+                },
+                "time": "14:32"
+            },
+            {
+                "frequency": {
+                    "raw": "29223",
+                    "formatted": "29,223"
+                },
+                "lot": {
+                    "raw": "4809391",
+                    "formatted": "4.81M"
+                },
+                "time": "14:33"
+            },
+            {
+                "frequency": {
+                    "raw": "29240",
+                    "formatted": "29,240"
+                },
+                "lot": {
+                    "raw": "4810439",
+                    "formatted": "4.81M"
+                },
+                "time": "14:34"
+            },
+            {
+                "frequency": {
+                    "raw": "29303",
+                    "formatted": "29,303"
+                },
+                "lot": {
+                    "raw": "4818022",
+                    "formatted": "4.82M"
+                },
+                "time": "14:35"
+            },
+            {
+                "frequency": {
+                    "raw": "29326",
+                    "formatted": "29,326"
+                },
+                "lot": {
+                    "raw": "4820795",
+                    "formatted": "4.82M"
+                },
+                "time": "14:36"
+            },
+            {
+                "frequency": {
+                    "raw": "29410",
+                    "formatted": "29,410"
+                },
+                "lot": {
+                    "raw": "4836613",
+                    "formatted": "4.84M"
+                },
+                "time": "14:37"
+            },
+            {
+                "frequency": {
+                    "raw": "29494",
+                    "formatted": "29,494"
+                },
+                "lot": {
+                    "raw": "4842838",
+                    "formatted": "4.84M"
+                },
+                "time": "14:38"
+            },
+            {
+                "frequency": {
+                    "raw": "29587",
+                    "formatted": "29,587"
+                },
+                "lot": {
+                    "raw": "4851303",
+                    "formatted": "4.85M"
+                },
+                "time": "14:39"
+            },
+            {
+                "frequency": {
+                    "raw": "29647",
+                    "formatted": "29,647"
+                },
+                "lot": {
+                    "raw": "4856532",
+                    "formatted": "4.86M"
+                },
+                "time": "14:40"
+            },
+            {
+                "frequency": {
+                    "raw": "29720",
+                    "formatted": "29,720"
+                },
+                "lot": {
+                    "raw": "4864717",
+                    "formatted": "4.86M"
+                },
+                "time": "14:41"
+            },
+            {
+                "frequency": {
+                    "raw": "30119",
+                    "formatted": "30,119"
+                },
+                "lot": {
+                    "raw": "4906953",
+                    "formatted": "4.91M"
+                },
+                "time": "14:42"
+            },
+            {
+                "frequency": {
+                    "raw": "30236",
+                    "formatted": "30,236"
+                },
+                "lot": {
+                    "raw": "4933902",
+                    "formatted": "4.93M"
+                },
+                "time": "14:43"
+            },
+            {
+                "frequency": {
+                    "raw": "30289",
+                    "formatted": "30,289"
+                },
+                "lot": {
+                    "raw": "4937809",
+                    "formatted": "4.94M"
+                },
+                "time": "14:44"
+            },
+            {
+                "frequency": {
+                    "raw": "30328",
+                    "formatted": "30,328"
+                },
+                "lot": {
+                    "raw": "4940170",
+                    "formatted": "4.94M"
+                },
+                "time": "14:45"
+            },
+            {
+                "frequency": {
+                    "raw": "30465",
+                    "formatted": "30,465"
+                },
+                "lot": {
+                    "raw": "4956692",
+                    "formatted": "4.96M"
+                },
+                "time": "14:46"
+            },
+            {
+                "frequency": {
+                    "raw": "31335",
+                    "formatted": "31,335"
+                },
+                "lot": {
+                    "raw": "5075219",
+                    "formatted": "5.08M"
+                },
+                "time": "14:47"
+            },
+            {
+                "frequency": {
+                    "raw": "31571",
+                    "formatted": "31,571"
+                },
+                "lot": {
+                    "raw": "5120493",
+                    "formatted": "5.12M"
+                },
+                "time": "14:48"
+            },
+            {
+                "frequency": {
+                    "raw": "31795",
+                    "formatted": "31,795"
+                },
+                "lot": {
+                    "raw": "5144038",
+                    "formatted": "5.14M"
+                },
+                "time": "14:49"
+            },
+            {
+                "frequency": {
+                    "raw": "32077",
+                    "formatted": "32,077"
+                },
+                "lot": {
+                    "raw": "5229838",
+                    "formatted": "5.23M"
+                },
+                "time": "14:50"
+            },
+            {
+                "frequency": {
+                    "raw": "32117",
+                    "formatted": "32,117"
+                },
+                "lot": {
+                    "raw": "5235994",
+                    "formatted": "5.24M"
+                },
+                "time": "14:51"
+            },
+            {
+                "frequency": {
+                    "raw": "32199",
+                    "formatted": "32,199"
+                },
+                "lot": {
+                    "raw": "5250014",
+                    "formatted": "5.25M"
+                },
+                "time": "14:52"
+            },
+            {
+                "frequency": {
+                    "raw": "32275",
+                    "formatted": "32,275"
+                },
+                "lot": {
+                    "raw": "5263935",
+                    "formatted": "5.26M"
+                },
+                "time": "14:53"
+            },
+            {
+                "frequency": {
+                    "raw": "32317",
+                    "formatted": "32,317"
+                },
+                "lot": {
+                    "raw": "5271034",
+                    "formatted": "5.27M"
+                },
+                "time": "14:54"
+            },
+            {
+                "frequency": {
+                    "raw": "32336",
+                    "formatted": "32,336"
+                },
+                "lot": {
+                    "raw": "5273703",
+                    "formatted": "5.27M"
+                },
+                "time": "14:55"
+            },
+            {
+                "frequency": {
+                    "raw": "32358",
+                    "formatted": "32,358"
+                },
+                "lot": {
+                    "raw": "5275226",
+                    "formatted": "5.28M"
+                },
+                "time": "14:56"
+            },
+            {
+                "frequency": {
+                    "raw": "32377",
+                    "formatted": "32,377"
+                },
+                "lot": {
+                    "raw": "5279533",
+                    "formatted": "5.28M"
+                },
+                "time": "14:57"
+            },
+            {
+                "frequency": {
+                    "raw": "32468",
+                    "formatted": "32,468"
+                },
+                "lot": {
+                    "raw": "5293562",
+                    "formatted": "5.29M"
+                },
+                "time": "14:58"
+            },
+            {
+                "frequency": {
+                    "raw": "32478",
+                    "formatted": "32,478"
+                },
+                "lot": {
+                    "raw": "5294346",
+                    "formatted": "5.29M"
+                },
+                "time": "14:59"
+            },
+            {
+                "frequency": {
+                    "raw": "32503",
+                    "formatted": "32,503"
+                },
+                "lot": {
+                    "raw": "5304233",
+                    "formatted": "5.30M"
+                },
+                "time": "15:00"
+            },
+            {
+                "frequency": {
+                    "raw": "32519",
+                    "formatted": "32,519"
+                },
+                "lot": {
+                    "raw": "5305581",
+                    "formatted": "5.31M"
+                },
+                "time": "15:01"
+            },
+            {
+                "frequency": {
+                    "raw": "32539",
+                    "formatted": "32,539"
+                },
+                "lot": {
+                    "raw": "5307121",
+                    "formatted": "5.31M"
+                },
+                "time": "15:02"
+            },
+            {
+                "frequency": {
+                    "raw": "32547",
+                    "formatted": "32,547"
+                },
+                "lot": {
+                    "raw": "5307946",
+                    "formatted": "5.31M"
+                },
+                "time": "15:03"
+            },
+            {
+                "frequency": {
+                    "raw": "32568",
+                    "formatted": "32,568"
+                },
+                "lot": {
+                    "raw": "5309284",
+                    "formatted": "5.31M"
+                },
+                "time": "15:04"
+            },
+            {
+                "frequency": {
+                    "raw": "32597",
+                    "formatted": "32,597"
+                },
+                "lot": {
+                    "raw": "5312243",
+                    "formatted": "5.31M"
+                },
+                "time": "15:05"
+            },
+            {
+                "frequency": {
+                    "raw": "32621",
+                    "formatted": "32,621"
+                },
+                "lot": {
+                    "raw": "5313814",
+                    "formatted": "5.31M"
+                },
+                "time": "15:06"
+            },
+            {
+                "frequency": {
+                    "raw": "32673",
+                    "formatted": "32,673"
+                },
+                "lot": {
+                    "raw": "5320348",
+                    "formatted": "5.32M"
+                },
+                "time": "15:07"
+            },
+            {
+                "frequency": {
+                    "raw": "32688",
+                    "formatted": "32,688"
+                },
+                "lot": {
+                    "raw": "5324894",
+                    "formatted": "5.32M"
+                },
+                "time": "15:08"
+            },
+            {
+                "frequency": {
+                    "raw": "32700",
+                    "formatted": "32,700"
+                },
+                "lot": {
+                    "raw": "5325676",
+                    "formatted": "5.33M"
+                },
+                "time": "15:09"
+            },
+            {
+                "frequency": {
+                    "raw": "32714",
+                    "formatted": "32,714"
+                },
+                "lot": {
+                    "raw": "5327466",
+                    "formatted": "5.33M"
+                },
+                "time": "15:10"
+            },
+            {
+                "frequency": {
+                    "raw": "32720",
+                    "formatted": "32,720"
+                },
+                "lot": {
+                    "raw": "5327964",
+                    "formatted": "5.33M"
+                },
+                "time": "15:11"
+            },
+            {
+                "frequency": {
+                    "raw": "32777",
+                    "formatted": "32,777"
+                },
+                "lot": {
+                    "raw": "5336383",
+                    "formatted": "5.34M"
+                },
+                "time": "15:12"
+            },
+            {
+                "frequency": {
+                    "raw": "32788",
+                    "formatted": "32,788"
+                },
+                "lot": {
+                    "raw": "5338252",
+                    "formatted": "5.34M"
+                },
+                "time": "15:13"
+            },
+            {
+                "frequency": {
+                    "raw": "32810",
+                    "formatted": "32,810"
+                },
+                "lot": {
+                    "raw": "5343342",
+                    "formatted": "5.34M"
+                },
+                "time": "15:14"
+            },
+            {
+                "frequency": {
+                    "raw": "32868",
+                    "formatted": "32,868"
+                },
+                "lot": {
+                    "raw": "5351292",
+                    "formatted": "5.35M"
+                },
+                "time": "15:15"
+            },
+            {
+                "frequency": {
+                    "raw": "32902",
+                    "formatted": "32,902"
+                },
+                "lot": {
+                    "raw": "5353365",
+                    "formatted": "5.35M"
+                },
+                "time": "15:16"
+            },
+            {
+                "frequency": {
+                    "raw": "33015",
+                    "formatted": "33,015"
+                },
+                "lot": {
+                    "raw": "5362308",
+                    "formatted": "5.36M"
+                },
+                "time": "15:17"
+            },
+            {
+                "frequency": {
+                    "raw": "33076",
+                    "formatted": "33,076"
+                },
+                "lot": {
+                    "raw": "5368102",
+                    "formatted": "5.37M"
+                },
+                "time": "15:18"
+            },
+            {
+                "frequency": {
+                    "raw": "33131",
+                    "formatted": "33,131"
+                },
+                "lot": {
+                    "raw": "5374484",
+                    "formatted": "5.37M"
+                },
+                "time": "15:19"
+            },
+            {
+                "frequency": {
+                    "raw": "33164",
+                    "formatted": "33,164"
+                },
+                "lot": {
+                    "raw": "5375373",
+                    "formatted": "5.38M"
+                },
+                "time": "15:20"
+            },
+            {
+                "frequency": {
+                    "raw": "33186",
+                    "formatted": "33,186"
+                },
+                "lot": {
+                    "raw": "5376392",
+                    "formatted": "5.38M"
+                },
+                "time": "15:21"
+            },
+            {
+                "frequency": {
+                    "raw": "33237",
+                    "formatted": "33,237"
+                },
+                "lot": {
+                    "raw": "5380892",
+                    "formatted": "5.38M"
+                },
+                "time": "15:22"
+            },
+            {
+                "frequency": {
+                    "raw": "33274",
+                    "formatted": "33,274"
+                },
+                "lot": {
+                    "raw": "5387930",
+                    "formatted": "5.39M"
+                },
+                "time": "15:23"
+            },
+            {
+                "frequency": {
+                    "raw": "33299",
+                    "formatted": "33,299"
+                },
+                "lot": {
+                    "raw": "5389761",
+                    "formatted": "5.39M"
+                },
+                "time": "15:24"
+            },
+            {
+                "frequency": {
+                    "raw": "33311",
+                    "formatted": "33,311"
+                },
+                "lot": {
+                    "raw": "5390497",
+                    "formatted": "5.39M"
+                },
+                "time": "15:25"
+            },
+            {
+                "frequency": {
+                    "raw": "33375",
+                    "formatted": "33,375"
+                },
+                "lot": {
+                    "raw": "5401812",
+                    "formatted": "5.40M"
+                },
+                "time": "15:26"
+            },
+            {
+                "frequency": {
+                    "raw": "33519",
+                    "formatted": "33,519"
+                },
+                "lot": {
+                    "raw": "5449908",
+                    "formatted": "5.45M"
+                },
+                "time": "15:27"
+            },
+            {
+                "frequency": {
+                    "raw": "33532",
+                    "formatted": "33,532"
+                },
+                "lot": {
+                    "raw": "5460422",
+                    "formatted": "5.46M"
+                },
+                "time": "15:28"
+            },
+            {
+                "frequency": {
+                    "raw": "33542",
+                    "formatted": "33,542"
+                },
+                "lot": {
+                    "raw": "5461741",
+                    "formatted": "5.46M"
+                },
+                "time": "15:29"
+            },
+            {
+                "frequency": {
+                    "raw": "33562",
+                    "formatted": "33,562"
+                },
+                "lot": {
+                    "raw": "5463211",
+                    "formatted": "5.46M"
+                },
+                "time": "15:30"
+            },
+            {
+                "frequency": {
+                    "raw": "33582",
+                    "formatted": "33,582"
+                },
+                "lot": {
+                    "raw": "5467125",
+                    "formatted": "5.47M"
+                },
+                "time": "15:31"
+            },
+            {
+                "frequency": {
+                    "raw": "33588",
+                    "formatted": "33,588"
+                },
+                "lot": {
+                    "raw": "5467770",
+                    "formatted": "5.47M"
+                },
+                "time": "15:32"
+            },
+            {
+                "frequency": {
+                    "raw": "33602",
+                    "formatted": "33,602"
+                },
+                "lot": {
+                    "raw": "5468918",
+                    "formatted": "5.47M"
+                },
+                "time": "15:33"
+            },
+            {
+                "frequency": {
+                    "raw": "33618",
+                    "formatted": "33,618"
+                },
+                "lot": {
+                    "raw": "5470531",
+                    "formatted": "5.47M"
+                },
+                "time": "15:34"
+            },
+            {
+                "frequency": {
+                    "raw": "33637",
+                    "formatted": "33,637"
+                },
+                "lot": {
+                    "raw": "5472013",
+                    "formatted": "5.47M"
+                },
+                "time": "15:35"
+            },
+            {
+                "frequency": {
+                    "raw": "33660",
+                    "formatted": "33,660"
+                },
+                "lot": {
+                    "raw": "5478237",
+                    "formatted": "5.48M"
+                },
+                "time": "15:36"
+            },
+            {
+                "frequency": {
+                    "raw": "33674",
+                    "formatted": "33,674"
+                },
+                "lot": {
+                    "raw": "5480398",
+                    "formatted": "5.48M"
+                },
+                "time": "15:37"
+            },
+            {
+                "frequency": {
+                    "raw": "33806",
+                    "formatted": "33,806"
+                },
+                "lot": {
+                    "raw": "5492477",
+                    "formatted": "5.49M"
+                },
+                "time": "15:38"
+            },
+            {
+                "frequency": {
+                    "raw": "33872",
+                    "formatted": "33,872"
+                },
+                "lot": {
+                    "raw": "5500234",
+                    "formatted": "5.50M"
+                },
+                "time": "15:39"
+            },
+            {
+                "frequency": {
+                    "raw": "34016",
+                    "formatted": "34,016"
+                },
+                "lot": {
+                    "raw": "5506164",
+                    "formatted": "5.51M"
+                },
+                "time": "15:40"
+            },
+            {
+                "frequency": {
+                    "raw": "34082",
+                    "formatted": "34,082"
+                },
+                "lot": {
+                    "raw": "5526788",
+                    "formatted": "5.53M"
+                },
+                "time": "15:41"
+            },
+            {
+                "frequency": {
+                    "raw": "34145",
+                    "formatted": "34,145"
+                },
+                "lot": {
+                    "raw": "5558515",
+                    "formatted": "5.56M"
+                },
+                "time": "15:42"
+            },
+            {
+                "frequency": {
+                    "raw": "34176",
+                    "formatted": "34,176"
+                },
+                "lot": {
+                    "raw": "5577692",
+                    "formatted": "5.58M"
+                },
+                "time": "15:43"
+            },
+            {
+                "frequency": {
+                    "raw": "34191",
+                    "formatted": "34,191"
+                },
+                "lot": {
+                    "raw": "5579602",
+                    "formatted": "5.58M"
+                },
+                "time": "15:44"
+            },
+            {
+                "frequency": {
+                    "raw": "34262",
+                    "formatted": "34,262"
+                },
+                "lot": {
+                    "raw": "5599939",
+                    "formatted": "5.60M"
+                },
+                "time": "15:45"
+            },
+            {
+                "frequency": {
+                    "raw": "34597",
+                    "formatted": "34,597"
+                },
+                "lot": {
+                    "raw": "5655708",
+                    "formatted": "5.66M"
+                },
+                "time": "15:46"
+            },
+            {
+                "frequency": {
+                    "raw": "34689",
+                    "formatted": "34,689"
+                },
+                "lot": {
+                    "raw": "5674976",
+                    "formatted": "5.67M"
+                },
+                "time": "15:47"
+            },
+            {
+                "frequency": {
+                    "raw": "34848",
+                    "formatted": "34,848"
+                },
+                "lot": {
+                    "raw": "5713610",
+                    "formatted": "5.71M"
+                },
+                "time": "15:48"
+            },
+            {
+                "frequency": {
+                    "raw": "35257",
+                    "formatted": "35,257"
+                },
+                "lot": {
+                    "raw": "5754190",
+                    "formatted": "5.75M"
+                },
+                "time": "15:49"
+            },
+            {
+                "frequency": {
+                    "raw": "35354",
+                    "formatted": "35,354"
+                },
+                "lot": {
+                    "raw": "5776356",
+                    "formatted": "5.78M"
+                },
+                "time": "16:00"
+            },
+            {
+                "frequency": {
+                    "raw": "35354",
+                    "formatted": "35,354"
+                },
+                "lot": {
+                    "raw": "5776356",
+                    "formatted": "5.78M"
+                },
+                "time": "16:01"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:02"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:03"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:04"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:05"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:06"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:07"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:08"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:09"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:10"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:11"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:12"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:13"
+            },
+            {
+                "frequency": {
+                    "raw": "35359",
+                    "formatted": "35,359"
+                },
+                "lot": {
+                    "raw": "5808816",
+                    "formatted": "5.81M"
+                },
+                "time": "16:14"
+            }
+        ],
+        "pre_post": {
+            "frequency": null,
+            "lot": null,
+            "time": ""
+        },
+        "is_show_pre_post": false,
+        "is_fca_stock": false
+    }
+}
