@@ -1,5 +1,3 @@
-https://exodus.stockbit.com/charts/DEWA/daily?timeframe=today
-
 {
     "data": {
         "cagr": "",

@@ -12,6 +12,9 @@ tl:
 tr namePattern: 
   uv run pytest -k "{{namePattern}}" -s --verbose
 
+# run from test
+rft name: 
+  python -m {{name}}
 
 # activate environtment
 ae:

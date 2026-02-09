@@ -12,6 +12,7 @@ dependencies = [
     "httpx>=0.28.1",
     "pydantic>=2.12.5",
     "sqlalchemy>=2.0.46",
+    "matplotlib>=3.10.8",
 ]
 
 [project.scripts]
