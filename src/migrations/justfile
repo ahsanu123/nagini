@@ -1,0 +1,5 @@
+set shell := ["sh", "-c"]
+
+# new revision 
+nr revisionName: 
+  alembic revision -m "{{revisionName}}" 
