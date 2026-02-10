@@ -18,10 +18,6 @@ class TradeBook(BaseModel):
     buy: List[TradeBookAction]
     sell: List[TradeBookAction]
 
-    model_config = {"extra": "ignore"}
-
 
 class TradeBookData(BaseModel):
     data: TradeBook
-
-    model_config = {"extra": "ignore"}

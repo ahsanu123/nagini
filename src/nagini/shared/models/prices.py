@@ -1,6 +1,6 @@
 from datetime import datetime
-from pydantic import AliasChoices, BaseModel, Field
-from typing import Optional, List
+from pydantic import BaseModel, Field
+from typing import List
 
 
 class Price(BaseModel):
@@ -9,8 +9,6 @@ class Price(BaseModel):
     value: int
     percentage: float
     change: int
-
-    model_config = {"extra": "ignore"}
 
 
 class Prices(BaseModel):
