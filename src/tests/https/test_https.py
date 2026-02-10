@@ -10,4 +10,5 @@ bearer = """
 def test_emiten_info():
     args = NaginiCliArgsModel(credential=bearer, emitenCode=EmitenCode.BUMI)
 
-    PriceHistoryHttpx.getPriceHistory(args)
+    prices = PriceHistoryHttpx.getPriceHistory(args)
+    print(prices)

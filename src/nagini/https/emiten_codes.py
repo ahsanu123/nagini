@@ -1,7 +1,12 @@
 from enum import Enum
+from typing import List
 
 
 class EmitenCode(str, Enum):
+    @classmethod
+    def getAllCodes(cls) -> List[EmitenCode]:
+        return [e for e in cls]
+
     AALI = "AALI"
     ABBA = "ABBA"
     ABDA = "ABDA"

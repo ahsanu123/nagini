@@ -1,5 +1,5 @@
 from string import Template
-from typing import Final
+from typing import Final, List
 from nagini.cli.nagini_cli_arg import NaginiCliArgsModel
 import httpx
 
@@ -12,7 +12,7 @@ class PriceHistoryHttpx:
     )
 
     @classmethod
-    def getPriceHistory(cls, arg: NaginiCliArgsModel):
+    def getPriceHistory(cls, arg: NaginiCliArgsModel) -> PricesData:
         template = Template(cls.endpoint)
 
         parsedEndpoint = template.substitute(CODE=arg.emitenCode.value)
@@ -24,4 +24,4 @@ class PriceHistoryHttpx:
         response.raise_for_status()
         prices = PricesData.model_validate(response.json())
 
-        print(prices.model_dump_json(indent=2))
+        return prices
