@@ -1,6 +1,3 @@
-https://exodus.stockbit.com/emitten/DEWA/info
-
-
 {
     "data": {
         "aum": "",

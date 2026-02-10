@@ -1,5 +1,3 @@
-https://exodus.stockbit.com/order-trade/trade-book/chart?symbol=DEWA&time_interval=1m
-
 {
     "message": "Successfully loaded tradebook data chart",
     "data": {

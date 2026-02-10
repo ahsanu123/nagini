@@ -1,5 +1,3 @@
-https://exodus.stockbit.com/company-price-feed/historical/summary/DEWA?period=HS_PERIOD_DAILY&start_date=2025-02-01&end_date=2026-02-01&limit=12&page=1
-
 {
     "message": "Successfully get the historical summary",
     "data": {
