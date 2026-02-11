@@ -22,3 +22,7 @@ ae:
 
 de: 
   deactivate
+
+# migrate to head
+mth: 
+  cd ./src/migrations && alembic upgrade head

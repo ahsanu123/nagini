@@ -1,5 +1,5 @@
 from datetime import datetime
-from sqlalchemy import create_engine, update
+from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 from nagini.shared.databases.base_db import BaseDb
@@ -17,7 +17,7 @@ def session_factory():
 
 def test_create_price_db():
     price = PriceDb(
-        formatted_date=datetime.now(), xlabel=0, value=129, percentage=2.8, change=19
+        date=datetime.now(), xlabel=0, value=129, percentage=2.8, change=19, code="BUMI"
     )
     with session_factory() as session:
         session.add(price)
@@ -38,7 +38,7 @@ def test_update_price_db():
         print("initial price", price)
 
         if price is not None:
-            price.formatted_date = datetime.now()
+            price.date = datetime.now()
             session.commit()
             print("updated price", price)
 

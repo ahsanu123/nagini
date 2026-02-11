@@ -1,5 +1,5 @@
+from datetime import datetime
 from pydantic import BaseModel
-from pydantic.types import datetime
 
 
 class HttpxWithPydanticDatetime(BaseModel):

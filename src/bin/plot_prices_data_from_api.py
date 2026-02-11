@@ -1,3 +1,4 @@
+from nagini.https.price_history_httpx import insert_into_prices
 from typing import Any
 from time import sleep
 import numpy as np
@@ -27,6 +28,9 @@ def plot_prices_data_from_api():
 
         print(f"{idx}/{len(allCodes)} -> {code.value}")
         prices_data_list.append(prices_data)
+
+        print(f"inserting {code.value} to db. length -> {len(prices_data.data.prices)}")
+        insert_into_prices(prices_data, code.value)
 
         if idx >= count:
             break

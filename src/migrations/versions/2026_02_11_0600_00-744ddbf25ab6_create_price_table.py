@@ -26,14 +26,16 @@ def upgrade() -> None:
         "price",
         sa.Column(
             "id",
-            type=int,
+            sa.Integer,
+            primary_key=True,
             autoincrement=True,
         ),
-        sa.Column("date", type=datetime, nullable=False),
-        sa.Column("xlabel", type=int, nullable=False),
-        sa.Column("value", type=int, nullable=False),
-        sa.Column("percentage", type=float, nullable=False),
-        sa.Column("change", type=int, nullable=False),
+        sa.Column("date", sa.DateTime, nullable=False),
+        sa.Column("xlabel", sa.Integer, nullable=False),
+        sa.Column("value", sa.Integer, nullable=False),
+        sa.Column("percentage", sa.Float, nullable=False),
+        sa.Column("change", sa.Integer, nullable=False),
+        sa.Column("code", sa.String, nullable=False),
     )
 
 

@@ -21,8 +21,9 @@ class PriceDb(BaseDb):
     __tablename__ = "price"
 
     id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True, init=False)
-    formatted_date: Mapped[datetime] = mapped_column(DateTime)
+    date: Mapped[datetime] = mapped_column(DateTime)
     xlabel: Mapped[int]
     value: Mapped[int]
     percentage: Mapped[float]
     change: Mapped[int]
+    code: Mapped[str]
